@@ -1,0 +1,252 @@
+﻿
+
+Shareholders Agreement
+Crux Capital Partners Pty Ltd
+and
+The parties listed in Schedule 1
+and
+Chai Rachabattuni and Orlando Guerra
+Ref: JR/SL - 1086064
+Level 21, Westpac House, 91 King William Street, Adelaide  SA  5000  AustraliaTelephone  +61 8 8205 0800GPO Box 286, Adelaide  SA  5001  AustraliaFacsimile     1300 464 135 (Australia)     +61 3 9034 3257 (International) hwlebsworth.com.au
+
+Table of Contents
+1.	Definitions and Interpretation	1
+1.1	Definitions	1
+1.2	Interpretation	7
+2.	Association	8
+2.1	Nature	8
+2.2	Interests	8
+2.3	Obligations	9
+3.	The Company	9
+3.1	Constitution	9
+3.2	Name	9
+3.3	Purpose	9
+3.4	Subsidiaries	10
+4.	Capital	10
+4.1	Shares	10
+4.2	Further Issued Securities	10
+4.3	Share Capital Reduction	11
+4.4	No Encumbrances	11
+5.	Options	12
+5.1	First Option	12
+5.2	Second Option	13
+5.3	Third Option	15
+6.	Board of Directors	18
+6.1	Number	18
+6.2	Appointment	18
+6.3	Alternate Directors	18
+6.4	Non-Executive Director Fees	18
+6.5	Chairperson	19
+6.6	Directors and Officers Insurance	19
+6.7	Deeds of Access and Indemnity	19
+7.	Proceedings of Directors	19
+7.1	Frequency and Location	19
+7.2	Notice and Quorum	19
+7.3	Agenda and Passing of Resolutions	20
+7.4	Circulating Resolutions	20
+7.5	Resolutions - Search Period	21
+8.	Management	21
+8.1	Search Period	21
+8.2	Operation Period	21
+9.	Shareholders	22
+9.1	Meetings	22
+9.2	Circulating Resolutions	23
+10.	Records and Minutes	23
+11.	Administrative Matters	24
+11.1	Company Secretary	24
+11.2	Auditors	24
+11.3	Registered Office	24
+11.4	Negotiable Instruments	24
+12.	Dividend Policy	24
+12.1	Search Period	24
+12.2	Operation Period	24
+13.	Business Plan - Operation Period	25
+13.1	Initial Business Plan	25
+13.2	Timing	25
+13.3	Management	25
+13.4	Approval	25
+14.	Records, Financial Management and Accounting	26
+14.1	Books of Account	26
+14.2	Notices and Documents	26
+14.3	Shareholder Records	26
+14.4	Search Period	26
+14.5	Operation Period	26
+15.	Funding and Completing an Acquisition	27
+15.1	Funding Generally	27
+15.2	Redemption and Step Up	27
+15.3	Further Issue of Shares	28
+16.	Issue of Shares - Operation Period	30
+16.1	Rights of First Offer for New Shares	30
+16.2	Offer Procedure for New Shares	30
+16.3	Excluded Issues	31
+16.4	Payments	31
+17.	Disposal of Shares	33
+17.1	Disposal of Shares - Search Period	33
+17.2	Disposal of Shares - Operation Period	33
+17.3	Tag-Along	36
+17.4	Disposal of Shares - Post-Completion	37
+18.	Drag-Along	38
+18.1	Drag-Along Notice	38
+18.2	Transfer	38
+18.3	Default	38
+19.	Default	39
+19.1	Events of Default	39
+19.2	Effect of Event of Default	39
+19.3	Sale of Default Shares - Valuer, Price and Process	39
+20.	Confidentiality	43
+21.	Notices	44
+22.	Dispute Resolution	44
+22.1	Restriction on Commencing Proceedings	44
+22.2	Process	45
+22.3	Breach	45
+23.	GST	45
+23.1	Interpretation	45
+23.2	GST Gross Up	45
+23.3	Reimbursements	45
+23.4	Tax Invoice	46
+24.	Termination	46
+24.1	Automatic Termination	46
+24.2	Accrued Rights	46
+25.	General	46
+25.1	Governing Law and Jurisdiction	46
+25.2	Entire Agreement	46
+25.3	Waivers	47
+25.4	Assignment and Encumbrances	47
+25.5	Costs and Expenses	47
+25.6	Stamp Duty	47
+25.7	Further Action	47
+25.8	No Merger	47
+25.9	Relationship	47
+25.10	Counterparts	47
+Schedule 1	Shareholders	48
+Schedule 2	Deed of Accession	50
+Schedule 3	Constitution of the Company	53
+Schedule 4	Critical Business Matters	54
+
+
+Shareholders Agreement
+DatePartiesCrux Capital Partners Pty Ltd
+ACN 654 447 140 of Level 21, 91 King William Street Adelaide SA 5000 
+(Company)The parties listed in Schedule 1
+(Shareholders)Chai Rachabattuni and Orlando Guerra
+both of 1012/470 St Kilda Road, Melbourne VIC 3004
+(each a Searcher and together Searchers)RecitalsA. As at the date of this agreement, the Shareholders listed in Schedule 1 are the shareholders of the Company.
+B. The parties wish to record the arrangements agreed between them for the operation of the Company.The parties agree, in consideration of, among other things, the mutual promises contained in this agreement as follows:1. Definitions and Interpretation
+1.1 Definitions
+In this agreement, unless something else is clearly indicated:
+ Acquisitionmeans any form of transaction involving the Company acquiring the Target, including for the avoidance of doubt a share acquisition or an asset acquisition. Boardmeans the board of directors of the Company as constituted from time to time. Businessmeans: 
+(a) during the Search Period, identifying and possibly acquiring a business; and
+(b) during the Operation Period, carrying on the business operated by the Target as at Completion. Business Daymeans a day that is not a Saturday, Sunday or public holiday in Victoria. Business Planmeans, during the Operation Period, the annual program current from time to time for carrying on the Business during the then Financial Year, comprising:
+(a) a business plan including the proposed or projected:
+(i) agreed activities of the Business; 
+(ii) marketing plans;
+(iii) sales targets;
+(iv) profit and loss statement, profitability, cashflow statements and balance sheet;
+(v) capital expenditure;
+(vi) financing plans including proposed debt and equity funding;
+(vii) staffing requirements; and
+(viii) research and development plans,
+during the period;
+(b) a budget estimating the income and expenses of the Business during the period; and
+(c) any other information that the Board requires from time to time. CEOmeans the Chief Executive Officer of the Company (or a subsidiary of the Company). Chairpersonmeans the Chairperson of the Board from time to time appointed pursuant to clause 6.5. Completionmeans completion of the Acquisition. Constitutionmeans the constitution of the Company, a copy of which is attached as Schedule 3. Corporations Actmeans the Corporations Act 2001 (Cth). Deed of Accessionmeans a deed of accession in the form contained in Schedule 2.  Directormeans a director of the Company and includes a director's alternate. Disposemeans assign, transfer, otherwise dispose of or grant or permit or suffer the grant of any legal or equitable interest (either in whole or in part) whether by sale, lease, declaration or creation of trust or otherwise, and Disposal has a corresponding meaning. Encumbrancemeans any interest or power:
+(a) reserved in or over any interest in, any asset including any retentions of title; or
+(b) created or otherwise arising in or over any interest in any asset under a bill of sale, mortgage, charge, lien, pledge, trust or hypothecation,
+by way of security for the payment of any debt or other monetary obligations or the performance of any other obligations and whether existing or agreed to be granted or created, including a security interest as defined in the Personal Property Securities Act 2009 (Cth), and Encumber has a corresponding meaning. Event of Defaultmeans an event specified in clause 19.1. Financial Yearmeans the period from 1 July in one year to 30 June in the next (and where relevant includes any part of any such year), or other dates determined by the Board. First Optionhas the meaning given to that term in clause 5.1(b). Information Memorandummeans the Information Memorandum in relation to the Company dated September 2021 attached as Annexure A. Insolvency Eventmeans:
+(a) for any body corporate, the happening of one or more of the following events:
+(i) an application or an order is made for the winding up or dissolution of that body corporate;
+(ii) a resolution for the winding up or dissolution of that body corporate is passed or proposed;
+(iii) that body corporate is wound up or dissolved;
+(iv) an application or an order is made for the appointment of a liquidator or a provisional liquidator in respect of that body corporate;
+(v) an official manager, administrator, receiver, receiver and manager, controller, trustee in bankruptcy or any similar official is appointed to that body corporate or any of its assets;
+(vi) that body corporate takes any steps to obtain protection or is granted protection from its creditors under the laws of any applicable jurisdiction;
+(vii) that body corporate is unable to pay all of its debts as and when they become due and payable; or
+(viii) anything analogous, or having substantially similar effect, to any of the above occurs in relation to that body corporate in any jurisdiction under or in respect of any existing or future law; or
+(b) for any individual, the happening of one or more of the following events:
+(i) the person has a bankruptcy notice issued against the person;
+(ii) a receiver or a trustee for creditors or in bankruptcy is appointed to any of the person’s property;
+(iii) a garnishee notice is given concerning any money that the person is said to be owed;
+(iv) the person proposes or enters into an arrangement or composition with, or an assignment for the benefit of, any of the person’s creditors;
+(v) the person proposes or effects a moratorium involving any of the person’s creditors;
+(vi) the person stops or suspends, or threatens to stop or suspend, the payment of all or a class of its debts or the conduct of all or a substantial part of its business;
+(vii) the person is unable to pay all of the person’s debts as they fall due or is presumed to be insolvent under any applicable law; or
+(viii) anything analogous, or having substantially similar effect, to any of the above occurs in relation to the person in any jurisdiction under or in respect of any existing or future law. Operation Periodmeans the period commencing immediately after Completion. Ordinary Majoritymeans Series B Preference Shareholders and Ordinary Shareholders who together hold more than half of the total number of Series B Preference Shares and Ordinary Shares. Ordinary Shareholdermeans a holder of an Ordinary Share. Ordinary Sharesmeans fully paid ordinary Shares in the capital of the Company. Redeemable Preference Shareholdermeans a holder of a Redeemable Preference Share. Redeemable Preference Sharesmeans fully paid redeemable preference Shares in the capital of the Company. Related Entity means, in respect of a Shareholder or the holder of an option under clause 5:
+(a) a body corporate in which the holder holds and beneficially owns all of the issued voting share capital;
+(b) the trustee of a trust in which the holder is a beneficiary or object; 
+(c) the general partner of a limited liability partnership in which the holder is a limited partner;
+(d) the trustee of a superannuation fund of which the holder is a member; or
+(e) where the holder is an individual, the spouse, former spouse, mother, father, brother, sister or child over the age of 18 of that holder. Sale Eventmeans:
+(a) the sale of 85% or more of the Shares in the capital of the Company; or
+(b) the sale of all (or substantially all) of the Company's assets. Search Periodmeans the period commencing on the date of this agreement and ending on the earlier of:
+(a) Completion; and
+(b) the date on which the Company has no remaining funds in circumstances where it has not completed an Acquisition. Second Optionhas the meaning given to that term in clause 5.2(b). Series A Preference Shareholdermeans a holder of a Series A Preference Share. Series A Preference Sharesmeans fully paid Series A preference Shares in the capital of the Company. Series B Preference Shareholdermeans a holder of a Series B Preference Share. Series B Preference Sharesmeans fully paid Series B preference Shares in the capital of the Company. Shareholdermeans, for so long as they hold a Share(s), the persons listed in Schedule 1 and any permitted assignee or successor in title of them and includes any person that becomes a shareholder of the Company pursuant to clauses 15, 16 or 17 and Shareholders means all of them. Sharesmeans fully paid shares in the capital of the Company. Targetmeans the business acquired by the Company during the Search Period (if any). Third Optionhas the meaning given to that term in clause 5.3(b).1.2 Interpretation
+In this agreement, unless something else is clearly intended:
+(a) a reference to a document (including this agreement) is a reference to that document as amended, varied, novated, supplemented or replaced from time to time; 
+(b) a reference to any legislation or any provision of any legislation includes:
+(i) 	all regulations, orders or instruments issued under the legislation or provision; and 
+(ii) 	any modification, consolidation, amendment, re-enactment, replacement or codification of such legislation or provision;
+(c) words or expressions:
+(i) importing the singular include the plural and vice versa;
+(ii) 	importing a gender include the other genders; and
+(iii) 	denoting individuals include corporations, firms, unincorporated bodies, authorities and instrumentalities;
+(d) a reference to a party to this agreement or any other instrument includes that party's executors, administrators, successors and permitted assigns; 
+(e) where a word or phrase is defined or given meaning, any other part of speech or grammatical form has a corresponding meaning;
+(f) a reference to a clause number or schedule number (or letter) is a reference to a clause or Schedule of this agreement; 
+(g) a reference to $ or Dollars is a reference to Australian dollars;
+(h) any heading, index, table of contents or marginal note is for convenience only and does not affect the interpretation of this agreement;
+(i) a provision of this agreement must not be construed to the disadvantage of a party because that party was responsible for the preparation of this agreement;
+(j) the Schedules to this agreement form part of this agreement and have effect as if set out in full in this agreement; 
+(k) where an act would be required to be done, or a time limit or period would expire, on a day which is not a Business Day, the act may be done, or the limit or period expire, on the following Business Day;
+(l) a reference to anything (including any right) includes a part of that thing;
+(m) a right includes a remedy, privilege, authority or power;
+(n) where a consent or approval is required under this agreement, the requirement will, unless something else is clearly intended, mean the prior written consent or approval; and
+(o) wherever used in this agreement the expressions 'including' and 'such as' and similar expressions shall not imply any limitation.
+2. Association
+2.1 Nature
+The Shareholders agree to associate with each other as shareholders in the Company on the terms set out in this agreement.
+2.2 Interests 
+The Shareholders as at the date of this agreement have interests in the Shares as listed in Schedule 1.
+2.3 Obligations
+(a) Each of the Shareholders shall:
+(i) use reasonable endeavours at all times to ensure that the purposes of the Company as set out in clause 3.3 are achieved;
+(ii) act honestly in relation to the other Shareholders in relation to the affairs of the Company;
+(iii) procure that its representatives will support and implement all reasonable proposals put forward at meetings of the Board and other meetings of the Company for the proper development and conduct of the Business by the Company;
+(iv) exercise all voting rights and powers of control available to it in relation to the Company so as to give full effect to the terms and conditions of this agreement including, where appropriate, the carrying into effect of such terms as if they were embodied in the Constitution; and 
+(v) generally use its reasonable endeavours to promote the Business and interests of the Company.
+(b) Otherwise as expressly contemplated by clause 2.3(a), the Shareholders hereby expressly disclaim any fiduciary duties which might otherwise have been implied by reason of this agreement.
+3. The Company 
+3.1 Constitution
+(a) The Shareholders agree to be bound by the Constitution.
+(b) If there is any inconsistency between the provisions of this agreement and the provisions of the Constitution, the provisions of this agreement shall prevail to the extent of such inconsistency and, in such case, the Shareholders shall (to the extent permissible at law) do all acts, matters and things necessary or desirable to give effect to the provisions of this clause (including, if required, to amend the Constitution).
+3.2 Name
+The name of the Company is and shall remain Crux Capital Partners Pty Ltd or such other name as it is changed to in accordance with the Corporations Act, and the Business and activities of the Company shall be conducted under such name.
+3.3 Purpose
+       The purpose of the Company:
+(a) during the Search Period is to identify and acquire a business (through making an Acquisition); and
+(b) during the Operation Period is to carry on the business operated by the Target with a view to achieving a Sale Event within five to seven years of Completion.
+3.4 Subsidiaries
+If the Company has any subsidiaries, in respect of each such subsidiary, the parties shall cause the affairs of same to be administered in accordance with this agreement as if the affairs of the subsidiary were the affairs of the Company and being dealt with under this agreement.
+4. Capital
+4.1 Shares
+The rights, powers and privileges attaching to: 
+(a) the Redeemable Preference Shares are set out in Annexure A of the Constitution;
+(b) the Series A Preference Shares are set out in Annexure B of the Constitution;
+(c) the Series B Preference Shares are set out in Annexure C of the Constitution; and
+(d) the Ordinary Shares are set out in the Constitution.
+4.2 Further Issued Securities
+(a) Subject only to clauses 5, 15.2, 15.3 and 16.3(a):
+(i) during the Search Period: 
+(A) no additional Shares or other equity securities or securities with rights of conversion or options over equity securities in the Company shall be issued nor shall the Company grant any right or option to subscribe for the same; and
+(B) no other type of alteration or reorganisation of any of the Company's share capital will occur (including, without limitation, converting Shares, varying rights attached to Shares and reducing the Company's share capital); and
+(ii) during the Operation Period, no additional Shares or other equity securities or securities with rights of conversion or options over equity securities in the Company shall be issued nor shall the Company grant any right or option to subscribe for the same except in accordance with clause 8.2(d).
+(b) For the avoidance of doubt:
+(i) during the Search Period, the only Shares on issue in the Company will be Redeemable Preference Shares and the one hundred Ordinary Shares issued on the Company's incorporation; and
+(ii) immediately following Completion the only Shares on issue in the Company will be Series A Preference Shares and Series B Preference Shares, the one hundred Ordinary Shares issued on the Company's incorporation with Ordinary Shares to be issued thereafter to the Searchers (or Related Entity as applicable) subject to the exercise of the First Options, Second Options and Third Options. 
+4.3 Share Capital Reduction
+       Notwithstanding any other provision of this agreement, during the Operation Period:
+(a) the Company must not undertake a share capital reduction in relation to Series A Preference Shares and Ordinary Shares; and
+(b) provided the required approval is obtained under clause 8.2(d), the Company may undertake a selective share capital reduction in relation to Series B Preference Shares in accordance with the Corporations Act but only on the following basis:
+(i) it applies to each Series B Preference Shareholder in proportion to the number of Series B Preference Shares they hold;
+(ii) the terms of the share capital reduction are the same for each Series B Preference Shareholder; and
+(iii) such share capital reduction:
+(A) can only be undertaken after all of the Series A Preference Shares have been redeemed; and 
+(B) must not involve the cancellation of any Series B Preference Shares.

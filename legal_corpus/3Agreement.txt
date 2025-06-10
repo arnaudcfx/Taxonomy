@@ -1,0 +1,975 @@
+﻿
+
+Shareholders Agreement
+Crux Capital Partners Pty Ltd
+and
+The parties listed in Schedule 1
+and
+Chai Rachabattuni and Orlando Guerra
+Ref: JR/SL - 1086064
+Level 21, Westpac House, 91 King William Street, Adelaide  SA  5000  AustraliaTelephone  +61 8 8205 0800GPO Box 286, Adelaide  SA  5001  AustraliaFacsimile     1300 464 135 (Australia)     +61 3 9034 3257 (International) hwlebsworth.com.au
+
+Table of Contents
+1.	Definitions and Interpretation	1
+1.1	Definitions	1
+1.2	Interpretation	7
+2.	Association	8
+2.1	Nature	8
+2.2	Interests	8
+2.3	Obligations	9
+3.	The Company	9
+3.1	Constitution	9
+3.2	Name	9
+3.3	Purpose	9
+3.4	Subsidiaries	10
+4.	Capital	10
+4.1	Shares	10
+4.2	Further Issued Securities	10
+4.3	Share Capital Reduction	11
+4.4	No Encumbrances	11
+5.	Options	12
+5.1	First Option	12
+5.2	Second Option	13
+5.3	Third Option	15
+6.	Board of Directors	18
+6.1	Number	18
+6.2	Appointment	18
+6.3	Alternate Directors	18
+6.4	Non-Executive Director Fees	18
+6.5	Chairperson	19
+6.6	Directors and Officers Insurance	19
+6.7	Deeds of Access and Indemnity	19
+7.	Proceedings of Directors	19
+7.1	Frequency and Location	19
+7.2	Notice and Quorum	19
+7.3	Agenda and Passing of Resolutions	20
+7.4	Circulating Resolutions	20
+7.5	Resolutions - Search Period	21
+8.	Management	21
+8.1	Search Period	21
+8.2	Operation Period	21
+9.	Shareholders	22
+9.1	Meetings	22
+9.2	Circulating Resolutions	23
+10.	Records and Minutes	23
+11.	Administrative Matters	24
+11.1	Company Secretary	24
+11.2	Auditors	24
+11.3	Registered Office	24
+11.4	Negotiable Instruments	24
+12.	Dividend Policy	24
+12.1	Search Period	24
+12.2	Operation Period	24
+13.	Business Plan - Operation Period	25
+13.1	Initial Business Plan	25
+13.2	Timing	25
+13.3	Management	25
+13.4	Approval	25
+14.	Records, Financial Management and Accounting	26
+14.1	Books of Account	26
+14.2	Notices and Documents	26
+14.3	Shareholder Records	26
+14.4	Search Period	26
+14.5	Operation Period	26
+15.	Funding and Completing an Acquisition	27
+15.1	Funding Generally	27
+15.2	Redemption and Step Up	27
+15.3	Further Issue of Shares	28
+16.	Issue of Shares - Operation Period	30
+16.1	Rights of First Offer for New Shares	30
+16.2	Offer Procedure for New Shares	30
+16.3	Excluded Issues	31
+16.4	Payments	31
+17.	Disposal of Shares	33
+17.1	Disposal of Shares - Search Period	33
+17.2	Disposal of Shares - Operation Period	33
+17.3	Tag-Along	36
+17.4	Disposal of Shares - Post-Completion	37
+18.	Drag-Along	38
+18.1	Drag-Along Notice	38
+18.2	Transfer	38
+18.3	Default	38
+19.	Default	39
+19.1	Events of Default	39
+19.2	Effect of Event of Default	39
+19.3	Sale of Default Shares - Valuer, Price and Process	39
+20.	Confidentiality	43
+21.	Notices	44
+22.	Dispute Resolution	44
+22.1	Restriction on Commencing Proceedings	44
+22.2	Process	45
+22.3	Breach	45
+23.	GST	45
+23.1	Interpretation	45
+23.2	GST Gross Up	45
+23.3	Reimbursements	45
+23.4	Tax Invoice	46
+24.	Termination	46
+24.1	Automatic Termination	46
+24.2	Accrued Rights	46
+25.	General	46
+25.1	Governing Law and Jurisdiction	46
+25.2	Entire Agreement	46
+25.3	Waivers	47
+25.4	Assignment and Encumbrances	47
+25.5	Costs and Expenses	47
+25.6	Stamp Duty	47
+25.7	Further Action	47
+25.8	No Merger	47
+25.9	Relationship	47
+25.10	Counterparts	47
+Schedule 1	Shareholders	48
+Schedule 2	Deed of Accession	50
+Schedule 3	Constitution of the Company	53
+Schedule 4	Critical Business Matters	54
+
+
+Shareholders Agreement
+DatePartiesCrux Capital Partners Pty Ltd
+ACN 654 447 140 of Level 21, 91 King William Street Adelaide SA 5000 
+(Company)The parties listed in Schedule 1
+(Shareholders)Chai Rachabattuni and Orlando Guerra
+both of 1012/470 St Kilda Road, Melbourne VIC 3004
+(each a Searcher and together Searchers)RecitalsA. As at the date of this agreement, the Shareholders listed in Schedule 1 are the shareholders of the Company.
+B. The parties wish to record the arrangements agreed between them for the operation of the Company.The parties agree, in consideration of, among other things, the mutual promises contained in this agreement as follows:1. Definitions and Interpretation
+1.1 Definitions
+In this agreement, unless something else is clearly indicated:
+ Acquisitionmeans any form of transaction involving the Company acquiring the Target, including for the avoidance of doubt a share acquisition or an asset acquisition. Boardmeans the board of directors of the Company as constituted from time to time. Businessmeans: 
+(a) during the Search Period, identifying and possibly acquiring a business; and
+(b) during the Operation Period, carrying on the business operated by the Target as at Completion. Business Daymeans a day that is not a Saturday, Sunday or public holiday in Victoria. Business Planmeans, during the Operation Period, the annual program current from time to time for carrying on the Business during the then Financial Year, comprising:
+(a) a business plan including the proposed or projected:
+(i) agreed activities of the Business; 
+(ii) marketing plans;
+(iii) sales targets;
+(iv) profit and loss statement, profitability, cashflow statements and balance sheet;
+(v) capital expenditure;
+(vi) financing plans including proposed debt and equity funding;
+(vii) staffing requirements; and
+(viii) research and development plans,
+during the period;
+(b) a budget estimating the income and expenses of the Business during the period; and
+(c) any other information that the Board requires from time to time. CEOmeans the Chief Executive Officer of the Company (or a subsidiary of the Company). Chairpersonmeans the Chairperson of the Board from time to time appointed pursuant to clause 6.5. Completionmeans completion of the Acquisition. Constitutionmeans the constitution of the Company, a copy of which is attached as Schedule 3. Corporations Actmeans the Corporations Act 2001 (Cth). Deed of Accessionmeans a deed of accession in the form contained in Schedule 2.  Directormeans a director of the Company and includes a director's alternate. Disposemeans assign, transfer, otherwise dispose of or grant or permit or suffer the grant of any legal or equitable interest (either in whole or in part) whether by sale, lease, declaration or creation of trust or otherwise, and Disposal has a corresponding meaning. Encumbrancemeans any interest or power:
+(a) reserved in or over any interest in, any asset including any retentions of title; or
+(b) created or otherwise arising in or over any interest in any asset under a bill of sale, mortgage, charge, lien, pledge, trust or hypothecation,
+by way of security for the payment of any debt or other monetary obligations or the performance of any other obligations and whether existing or agreed to be granted or created, including a security interest as defined in the Personal Property Securities Act 2009 (Cth), and Encumber has a corresponding meaning. Event of Defaultmeans an event specified in clause 19.1. Financial Yearmeans the period from 1 July in one year to 30 June in the next (and where relevant includes any part of any such year), or other dates determined by the Board. First Optionhas the meaning given to that term in clause 5.1(b). Information Memorandummeans the Information Memorandum in relation to the Company dated September 2021 attached as Annexure A. Insolvency Eventmeans:
+(a) for any body corporate, the happening of one or more of the following events:
+(i) an application or an order is made for the winding up or dissolution of that body corporate;
+(ii) a resolution for the winding up or dissolution of that body corporate is passed or proposed;
+(iii) that body corporate is wound up or dissolved;
+(iv) an application or an order is made for the appointment of a liquidator or a provisional liquidator in respect of that body corporate;
+(v) an official manager, administrator, receiver, receiver and manager, controller, trustee in bankruptcy or any similar official is appointed to that body corporate or any of its assets;
+(vi) that body corporate takes any steps to obtain protection or is granted protection from its creditors under the laws of any applicable jurisdiction;
+(vii) that body corporate is unable to pay all of its debts as and when they become due and payable; or
+(viii) anything analogous, or having substantially similar effect, to any of the above occurs in relation to that body corporate in any jurisdiction under or in respect of any existing or future law; or
+(b) for any individual, the happening of one or more of the following events:
+(i) the person has a bankruptcy notice issued against the person;
+(ii) a receiver or a trustee for creditors or in bankruptcy is appointed to any of the person’s property;
+(iii) a garnishee notice is given concerning any money that the person is said to be owed;
+(iv) the person proposes or enters into an arrangement or composition with, or an assignment for the benefit of, any of the person’s creditors;
+(v) the person proposes or effects a moratorium involving any of the person’s creditors;
+(vi) the person stops or suspends, or threatens to stop or suspend, the payment of all or a class of its debts or the conduct of all or a substantial part of its business;
+(vii) the person is unable to pay all of the person’s debts as they fall due or is presumed to be insolvent under any applicable law; or
+(viii) anything analogous, or having substantially similar effect, to any of the above occurs in relation to the person in any jurisdiction under or in respect of any existing or future law. Operation Periodmeans the period commencing immediately after Completion. Ordinary Majoritymeans Series B Preference Shareholders and Ordinary Shareholders who together hold more than half of the total number of Series B Preference Shares and Ordinary Shares. Ordinary Shareholdermeans a holder of an Ordinary Share. Ordinary Sharesmeans fully paid ordinary Shares in the capital of the Company. Redeemable Preference Shareholdermeans a holder of a Redeemable Preference Share. Redeemable Preference Sharesmeans fully paid redeemable preference Shares in the capital of the Company. Related Entity means, in respect of a Shareholder or the holder of an option under clause 5:
+(a) a body corporate in which the holder holds and beneficially owns all of the issued voting share capital;
+(b) the trustee of a trust in which the holder is a beneficiary or object; 
+(c) the general partner of a limited liability partnership in which the holder is a limited partner;
+(d) the trustee of a superannuation fund of which the holder is a member; or
+(e) where the holder is an individual, the spouse, former spouse, mother, father, brother, sister or child over the age of 18 of that holder. Sale Eventmeans:
+(a) the sale of 85% or more of the Shares in the capital of the Company; or
+(b) the sale of all (or substantially all) of the Company's assets. Search Periodmeans the period commencing on the date of this agreement and ending on the earlier of:
+(a) Completion; and
+(b) the date on which the Company has no remaining funds in circumstances where it has not completed an Acquisition. Second Optionhas the meaning given to that term in clause 5.2(b). Series A Preference Shareholdermeans a holder of a Series A Preference Share. Series A Preference Sharesmeans fully paid Series A preference Shares in the capital of the Company. Series B Preference Shareholdermeans a holder of a Series B Preference Share. Series B Preference Sharesmeans fully paid Series B preference Shares in the capital of the Company. Shareholdermeans, for so long as they hold a Share(s), the persons listed in Schedule 1 and any permitted assignee or successor in title of them and includes any person that becomes a shareholder of the Company pursuant to clauses 15, 16 or 17 and Shareholders means all of them. Sharesmeans fully paid shares in the capital of the Company. Targetmeans the business acquired by the Company during the Search Period (if any). Third Optionhas the meaning given to that term in clause 5.3(b).1.2 Interpretation
+In this agreement, unless something else is clearly intended:
+(a) a reference to a document (including this agreement) is a reference to that document as amended, varied, novated, supplemented or replaced from time to time; 
+(b) a reference to any legislation or any provision of any legislation includes:
+(i) 	all regulations, orders or instruments issued under the legislation or provision; and 
+(ii) 	any modification, consolidation, amendment, re-enactment, replacement or codification of such legislation or provision;
+(c) words or expressions:
+(i) importing the singular include the plural and vice versa;
+(ii) 	importing a gender include the other genders; and
+(iii) 	denoting individuals include corporations, firms, unincorporated bodies, authorities and instrumentalities;
+(d) a reference to a party to this agreement or any other instrument includes that party's executors, administrators, successors and permitted assigns; 
+(e) where a word or phrase is defined or given meaning, any other part of speech or grammatical form has a corresponding meaning;
+(f) a reference to a clause number or schedule number (or letter) is a reference to a clause or Schedule of this agreement; 
+(g) a reference to $ or Dollars is a reference to Australian dollars;
+(h) any heading, index, table of contents or marginal note is for convenience only and does not affect the interpretation of this agreement;
+(i) a provision of this agreement must not be construed to the disadvantage of a party because that party was responsible for the preparation of this agreement;
+(j) the Schedules to this agreement form part of this agreement and have effect as if set out in full in this agreement; 
+(k) where an act would be required to be done, or a time limit or period would expire, on a day which is not a Business Day, the act may be done, or the limit or period expire, on the following Business Day;
+(l) a reference to anything (including any right) includes a part of that thing;
+(m) a right includes a remedy, privilege, authority or power;
+(n) where a consent or approval is required under this agreement, the requirement will, unless something else is clearly intended, mean the prior written consent or approval; and
+(o) wherever used in this agreement the expressions 'including' and 'such as' and similar expressions shall not imply any limitation.
+2. Association
+2.1 Nature
+The Shareholders agree to associate with each other as shareholders in the Company on the terms set out in this agreement.
+2.2 Interests 
+The Shareholders as at the date of this agreement have interests in the Shares as listed in Schedule 1.
+2.3 Obligations
+(a) Each of the Shareholders shall:
+(i) use reasonable endeavours at all times to ensure that the purposes of the Company as set out in clause 3.3 are achieved;
+(ii) act honestly in relation to the other Shareholders in relation to the affairs of the Company;
+(iii) procure that its representatives will support and implement all reasonable proposals put forward at meetings of the Board and other meetings of the Company for the proper development and conduct of the Business by the Company;
+(iv) exercise all voting rights and powers of control available to it in relation to the Company so as to give full effect to the terms and conditions of this agreement including, where appropriate, the carrying into effect of such terms as if they were embodied in the Constitution; and 
+(v) generally use its reasonable endeavours to promote the Business and interests of the Company.
+(b) Otherwise as expressly contemplated by clause 2.3(a), the Shareholders hereby expressly disclaim any fiduciary duties which might otherwise have been implied by reason of this agreement.
+3. The Company 
+3.1 Constitution
+(a) The Shareholders agree to be bound by the Constitution.
+(b) If there is any inconsistency between the provisions of this agreement and the provisions of the Constitution, the provisions of this agreement shall prevail to the extent of such inconsistency and, in such case, the Shareholders shall (to the extent permissible at law) do all acts, matters and things necessary or desirable to give effect to the provisions of this clause (including, if required, to amend the Constitution).
+3.2 Name
+The name of the Company is and shall remain Crux Capital Partners Pty Ltd or such other name as it is changed to in accordance with the Corporations Act, and the Business and activities of the Company shall be conducted under such name.
+3.3 Purpose
+       The purpose of the Company:
+(a) during the Search Period is to identify and acquire a business (through making an Acquisition); and
+(b) during the Operation Period is to carry on the business operated by the Target with a view to achieving a Sale Event within five to seven years of Completion.
+3.4 Subsidiaries
+If the Company has any subsidiaries, in respect of each such subsidiary, the parties shall cause the affairs of same to be administered in accordance with this agreement as if the affairs of the subsidiary were the affairs of the Company and being dealt with under this agreement.
+4. Capital
+4.1 Shares
+The rights, powers and privileges attaching to: 
+(a) the Redeemable Preference Shares are set out in Annexure A of the Constitution;
+(b) the Series A Preference Shares are set out in Annexure B of the Constitution;
+(c) the Series B Preference Shares are set out in Annexure C of the Constitution; and
+(d) the Ordinary Shares are set out in the Constitution.
+4.2 Further Issued Securities
+(a) Subject only to clauses 5, 15.2, 15.3 and 16.3(a):
+(i) during the Search Period: 
+(A) no additional Shares or other equity securities or securities with rights of conversion or options over equity securities in the Company shall be issued nor shall the Company grant any right or option to subscribe for the same; and
+(B) no other type of alteration or reorganisation of any of the Company's share capital will occur (including, without limitation, converting Shares, varying rights attached to Shares and reducing the Company's share capital); and
+(ii) during the Operation Period, no additional Shares or other equity securities or securities with rights of conversion or options over equity securities in the Company shall be issued nor shall the Company grant any right or option to subscribe for the same except in accordance with clause 8.2(d).
+(b) For the avoidance of doubt:
+(i) during the Search Period, the only Shares on issue in the Company will be Redeemable Preference Shares and the one hundred Ordinary Shares issued on the Company's incorporation; and
+(ii) immediately following Completion the only Shares on issue in the Company will be Series A Preference Shares and Series B Preference Shares, the one hundred Ordinary Shares issued on the Company's incorporation with Ordinary Shares to be issued thereafter to the Searchers (or Related Entity as applicable) subject to the exercise of the First Options, Second Options and Third Options. 
+4.3 Share Capital Reduction
+       Notwithstanding any other provision of this agreement, during the Operation Period:
+(a) the Company must not undertake a share capital reduction in relation to Series A Preference Shares and Ordinary Shares; and
+(b) provided the required approval is obtained under clause 8.2(d), the Company may undertake a selective share capital reduction in relation to Series B Preference Shares in accordance with the Corporations Act but only on the following basis:
+(i) it applies to each Series B Preference Shareholder in proportion to the number of Series B Preference Shares they hold;
+(ii) the terms of the share capital reduction are the same for each Series B Preference Shareholder; and
+(iii) such share capital reduction:
+(A) can only be undertaken after all of the Series A Preference Shares have been redeemed; and 
+(B) must not involve the cancellation of any Series B Preference Shares.
+4.4 No Encumbrances
+A Shareholder must not grant any Encumbrance over their Shares or any part of their Shares, nor agree to do so, without the prior written consent of the Board.
+5. Options
+5.1 First Option
+(a) In this clause 5.1:
+(i) First Option Exercise Notice means a duly completed and executed notice of the exercise of a First Option.
+(ii) First Option Exercise Period means the 30 day period commencing on the date that a First Option Vesting Condition is satisfied. 
+(iii) First Option Exercise Price means the amount equal to $0.0001 multiplied by the number of applicable First Tranche Shares.
+(iv) First Option Vesting Condition means the condition which must be satisfied before a Searcher (or Related Entity as applicable) can exercise their First Option, being Completion occurring.
+(b) On the date of this agreement, the Company grants to each Searcher the option to subscribe for Ordinary Shares (on a 50:50 basis) equating to 10% of the total Shares on issue in the Company (on a fully diluted basis and rounded to the nearest whole number) assuming that immediately prior to the issue of such Ordinary Shares the only Shares on issue in the Company are the Series B Preference Shares issued by the Company under clause 15 (First Tranche Shares) on the terms and conditions set out in this clause 5.1 (each a First Option).  For example, if the Company issues 3,600,000 Series B Preference Shares under clause 15, then the number of First Tranche Shares is 400,000 (with 400,000 divided by 4,000,00 being equal to 10%) and each Searcher's First Option is therefore in respect of 200,000 Ordinary Shares.
+(c) The First Options will only vest and be exercisable if the First Option Vesting Condition is satisfied.  Subject to the satisfaction of the First Option Vesting Condition, a First Option is exercisable by a Searcher (or Related Entity as applicable): 
+(i) delivering a First Option Exercise Notice; and 
+(ii) paying the First Option Exercise Price,
+to the Company during the First Option Exercise Period.  A Searcher (or Related Entity as applicable) may exercise their First Option only once in respect of all of the applicable First Tranche Shares.
+(d) Within two Business Days of the exercise of a First Option by a Searcher (or Related Entity as applicable) in accordance with clause 5.1(c), the Company must:
+(i) issue to the relevant Searcher (or Related Entity as applicable) the applicable First Tranche Shares on the basis that each such First Tranche Share is fully paid with an issue price of $0.0001; 
+(ii) enter the relevant Searcher (or Related Entity as applicable) in the register of shareholders of the Company as the holder of the applicable First Tranche Shares; and
+(iii) deliver to the relevant Searcher (or Related Entity as applicable) a share certificate for the applicable First Tranche Shares, duly executed by the Company.
+(e) A First Option automatically lapses on 12.01am on the day immediately following the last day of the First Option Exercise Period.
+(f) Subject to clause 5.1(g), a Searcher (or Related Entity as applicable) must not assign, transfer, sell, grant an Encumbrance over or otherwise deal with their First Option.
+(g) A Searcher (or Related Entity as applicable) may transfer their First Option to a Related Entity (and if such transferee ceases to be a Related Entity then the First Option must be transferred back to the transferor as soon as practicable).  If the Company issues the applicable First Tranche Shares to a Related Entity of a Searcher under this clause 5.1, at such time and if that Related Entity is not already a Shareholder that Related Entity must undertake and agree to be bound by and subject to the terms of this agreement as a Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession. 
+5.2 Second Option
+(a) In this clause 5.2:
+(i) Second Option Exercise Notice means a duly completed and executed notice of the exercise of a Second Option.
+(ii) Second Option Exercise Period means the 30 day period commencing on the date that a Second Option Vesting Condition is satisfied.
+(iii) Second Option Exercise Price means the amount equal to $0.0001 multiplied by the number of applicable Second Tranche Shares to be issued in accordance with clause 5.2(d).
+(iv) Second Option Vesting Condition means the condition which must be satisfied before a Searcher (or Related Entity as applicable) can exercise their Second Option, being Completion occurring.
+(b) On the date of this agreement, the Company grants to each Searcher the option to subscribe for Ordinary Shares (on a 50:50 basis) up to the number of Shares calculated in accordance with the following formula (Second Tranche Shares) on the terms and conditions set out in this clause 5.2 (each a Second Option):
+       A = B - C
+       Where:
+       A = 	Second Tranche Shares (rounded to the nearest whole number);
+B =	20% of the total Shares on issue in the Company (on a fully diluted basis) assuming that immediately prior to the issue of the first allotment of such Ordinary Shares (with the maximum number being issued) the only Shares on issue in the Company are the Series B Preference Shares issued by the Company under clause 15; and
+C =	the number of First Tranche Shares.
+For example, if the Company issues 3,600,000 Series B Preference Shares under clause 15, then the maximum number of Second Tranche Shares is 500,000 (with 900,000 divided by 4,500,000 being equal to 20%) and each Searcher's Second Option is therefore in respect of 250,000 Ordinary Shares.
+(c) The Second Options will only vest and be exercisable if the Second Option Vesting Condition is satisfied.  Subject to the satisfaction of the Second Option Vesting Condition, a Second Option is exercisable by a Searcher (or Related Entity as applicable): 
+(i) delivering a Second Option Exercise Notice; and 
+(ii) paying the Second Option Exercise Price,
+to the Company during the Second Option Exercise Period.  A Searcher (or Related Entity as applicable) may exercise their Second Option only once in respect of all of the applicable Second Tranche Shares.
+(d) If a Second Option is exercised by a Searcher (or Related Entity as applicable) in accordance with clause 5.2(c) and provided that on each relevant issue date the relevant Searcher remains employed by the Company (or a subsidiary of the Company), the Company must issue to the relevant Searcher (or Related Entity as applicable) the applicable Second Tranche Shares at the following times on the basis that each such Second Tranche Share is fully paid with an issue price of $0.0001:
+(i) in equal monthly allotments over a four year period from Completion (with each such allotment to be issued on the last day of the relevant month); subject to
+(ii) if a Sale Event occurs before the fourth anniversary of Completion, the issue will be accelerated so that all unissued Second Tranche Shares immediately prior to the occurrence of the Sale Event are issued to the Searchers (as applicable) at that time so long as the internal rate of return hurdles as determined by the Board under clause 5.3 up to such time have been attained.
+(e) On the issue of any Second Tranche Shares by the Company to a Searcher (or Related Entity as applicable) under clause 5.2(d), the Company must:
+(i) enter the relevant Searcher (or Related Entity as applicable) in the register of shareholders of the Company as the holder of the applicable Second Tranche Shares; and
+(ii) deliver to the relevant Searcher (or Related Entity as applicable) a share certificate for the applicable Second Tranche Shares, duly executed by the Company.
+(f) A Second Option automatically lapses on 12.01am on the day immediately following the last day of the Second Option Exercise Period.
+(g) Subject to clause 5.2(h), a Searcher (or Related Entity as applicable) must not assign, transfer, sell, grant an Encumbrance over or otherwise deal with their Second Option. 
+(h) A Searcher (or Related Entity as applicable) may transfer their Second Option to a Related Entity (and if such transferee ceases to be a Related Entity then the Second Option must be transferred back to the transferor as soon as practicable).  If the Company issues any applicable Second Tranche Shares to a Related Entity of a Searcher under this clause 5.2, at such time and if that Related Entity is not already a Shareholder it must undertake and agree to be bound by and subject to the terms of this agreement as a Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession.
+5.3 Third Option
+(a) In this clause 5.3:
+(i) Third Option Exercise Notice means a duly completed and executed notice of the exercise of a Third Option.
+(ii) Third Option Exercise Period means the 30 day period commencing on the date that a Third Option Vesting Condition is satisfied.
+(iii) Third Option Exercise Price means the amount equal to $0.0001 multiplied by the number of applicable Third Tranche Shares to be issued in accordance with clause 5.3(d)(i).
+(iv) Third Option Vesting Condition means the condition which must be satisfied before a Searcher (or Related Entity as applicable) can exercise their Third Option, being the attainment of an internal rate of return (IRR) of greater than 20% by all of the Series A Preference Shareholders and Series B Preference Shareholders in respect of their Shares, as determined by the Board (acting reasonably and in good faith) calculating the return received by or payable to them on the basis of an acquisition of Series A Preference Shares or Series B Preference Shares (as applicable) at Completion and a sale of Series A Preference Shares or Series B Preference Shares (as applicable) upon a Sale Event which calculation must incorporate payments made by the Company to Series A Preference Shareholders and Series B Preference Shareholders (such as dividends and returns of capital) prior to a Sale Event (IRR Return).  The IRR is to be calculated in Australian dollars using the Microsoft Excel XIRR function and from Completion. 
+(b) On the date of this agreement, the Company grants to each Searcher the option to subscribe for Ordinary Shares (on a 50:50 basis) up to the number of Shares calculated in accordance with the following formula (Third Tranche Shares) on the terms and conditions set out in this clause 5.3 (each a Third Option):
+       A = B - C - D
+       Where:
+       A = 	Third Tranche Shares (rounded to the nearest whole number);
+B =	30% of the total Shares on issue in the Company (on a fully diluted basis) assuming that immediately prior to the issue of such Ordinary Shares (with the maximum number being issued) the only Shares on issue in the Company are the Series B Preference Shares issued by the Company under clause 15;
+C =	the number of First Tranche Shares; and
+D =	the maximum number of Second Tranche Shares.
+For example, if the Company issues 3,600,000 Series B Preference Shares under clause 15, then the maximum number of Third Tranche Shares is 644,000 (with 1,544,000 divided by 5,144,000 being equal to 30%) and each Searcher's Third Option is therefore in respect of 322,000 Ordinary Shares. 
+(c) The Third Options will only vest and be exercisable if the Third Option Vesting Condition is satisfied.  Subject to the satisfaction of the Third Option Vesting Condition, a Third Option is exercisable by a Searcher (or Related Entity as applicable): 
+(i) delivering a Third Option Exercise Notice; and 
+(ii) paying the Third Option Exercise Price,
+to the Company during the Third Option Exercise Period.  A Searcher (or Related Entity as applicable) may exercise their Third Option only once in respect of all of the applicable Third Tranche Shares that can be issued in accordance with clause 5.3(d)(i).
+(d) Within two Business Days of the exercise of a Third Option by a Searcher (or Related Entity as applicable) in accordance with clause 5.3(c), the Company must:
+(i) issue to the relevant Searcher (or Related Entity as applicable) the number of Ordinary Shares calculated in accordance with the following formula:
+A = B x C
+Where:
+A =	the number of Ordinary Shares to be issued by the Company;
+B =	(D - E) / F
+Where:
+D =	the IRR Return (for the avoidance of doubt this is to be expressed as a percentage and must be greater than 20%);
+E =	0.2; and
+F =	0.15,
+subject to B being capped at (and therefore not being able to exceed) 1; and
+C =	the maximum number of applicable Third Tranche Shares,
+on the basis that each such Third Tranche Share issued is fully paid with an issue price of $0.0001;
+(ii) enter the relevant Searcher (or Related Entity as applicable) in the register of shareholders of the Company as the holder of the applicable Third Tranche Shares issued in accordance with clause 5.3(d)(i); and
+(iii) deliver to the relevant Searcher (or Related Entity as applicable) a share certificate for the applicable Third Tranche Shares issued in accordance with clause 5.3(d)(i), duly executed by the Company.
+(e) A Third Option automatically lapses on the earlier of:
+(i) the date that the Third Option Vesting Condition becomes incapable of being satisfied; 
+(ii) 12.01am on the day immediately following the last day of the Third Option Exercise Period; and
+(iii) the date that the relevant Searcher ceases to be an employee of the Company (or a subsidiary of the Company).
+(f) Subject to clause 5.3(g), a Searcher (or Related Entity as applicable) must not assign, transfer, sell, grant an Encumbrance over or otherwise deal with their Third Option.
+(g) A Searcher (or Related Entity as applicable) may transfer their Third Option to a Related Entity (and if such transferee ceases to be a Related Entity then the Third Option must be transferred back to the transferor as soon as practicable).  If the Company issues any applicable Third Tranche Shares to a Related Entity of a Searcher under this clause 5.3, at such time and if that Related Entity is not already a Shareholder it must undertake and agree to be bound by and subject to the terms of this agreement as a Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession.
+6. Board of Directors
+6.1 Number
+(a) During the Search Period, the number of Directors to comprise the Board must be two.
+(b) During the Operation Period, the number of Directors to comprise the Board must be at least three but not more than five.
+6.2 Appointment
+(a) During the Search Period, the Directors shall be the Searchers.
+(b) During the Operation Period and subject to clause 6.1(b), the Directors shall be appointed as follows:
+(i) for so long as each Searcher remains an employee of the Company (or a subsidiary of the Company), up to one Director shall be appointed by each Searcher; and
+(ii) up to three Directors shall be appointed by approval by an Ordinary Majority,
+and the relevant appointing Shareholders in clauses 6.2(b)(i) and 6.2(b)(ii) shall be entitled to appoint, remove and replace each Director appointed by them to the Board as and when they see fit and each such appointment and removal shall be effected by instrument in writing served upon the Company.  The Shareholders must not take any step to remove any Director appointed by the relevant appointing Shareholders under this clause 6.2(b).
+6.3 Alternate Directors
+A Director may appoint an alternate Director to act as a Director in their absence.
+6.4 Non-Executive Director Fees
+During the Operation Period, the fees payable to each non-executive Director shall be as determined by the Board and will be an amount no more than $25,000 per annum (inclusive of superannuation) (or such other amount as approved by an Ordinary Majority). 
+6.5 Chairperson
+(a) During the Search Period, the Chairperson shall be Orlando.
+(b) During the Operation Period, the Chairperson shall be appointed by the Board.  
+6.6 Directors and Officers Insurance
+The Directors must resolve that the Company will obtain and maintain, where reasonable and cost effective to do so, directors and officers insurance with a reputable insurance company in amounts and on terms satisfactory to the Board.
+6.7 Deeds of Access and Indemnity
+The Company must negotiate in good faith with the Directors appointed pursuant to clause 6.2 to enter into deeds of access and indemnity for the duration of a Director's tenure and for seven years thereafter.
+7. Proceedings of Directors
+7.1 Frequency and Location
+During the Operation Period:
+(a) subject to the Corporations Act and this agreement, the Directors may meet together, adjourn and regulate their meetings as they think fit;
+(b) notwithstanding clause 7.1(a), the Directors must meet at least: 
+(i) once every two months during the first 12 months; and
+(ii) once every three months thereafter,
+in a location approved by the Board; and
+(c) a Director may attend a Board meeting via telephone, teleconference or other telecommunication medium. 
+7.2 Notice and Quorum
+During the Operation Period:
+(a) a Director may call a Board meeting;
+(b) unless all Directors entitled to vote at the meeting agree otherwise, a person calling a Directors’ meeting must give to each Director individually at least ten Business Day's notice of meeting that:
+(i) 	sets out the place, date and time for the meeting (and, if the meeting is to be held in two or more places, the technology that will be used to facilitate this);
+(ii) 	states the general nature of the meeting’s business and particularly any proposal to pass a resolution; and
+(iii) 	is accompanied by relevant information so far as reasonably available (if not already given to the Director);
+(c) unless the Directors unanimously determine otherwise, the quorum for a Directors' meeting is three Directors and the quorum must be present at all times during the meeting;
+(d) if a quorum of Directors is not present within 30 minutes after the time appointed for the Board meeting, the meeting stands adjourned to the same time and place three Business Days later and at the reconvened meeting a quorum is two Directors;
+(e) subject to any other approvals required under this agreement, in particular clause 8.2(d), a resolution of the Directors must be passed by a simple majority of votes cast by the Directors entitled to vote on the resolution;
+(f) each Director shall have one vote; and
+(g) the Chairperson does not have a casting vote in addition to any vote they have in their capacity as a Director.
+7.3 Agenda and Passing of Resolutions
+During the Operation Period, the Board may only pass resolutions in relation to matters to be discussed and/or resolved as set out in the relevant agenda provided under clause 7.2(b) for a particular meeting unless otherwise unanimously agreed by the Directors present at that meeting. 
+7.4 Circulating Resolutions
+During the Operation Period:
+(a) subject to any other approvals required under this agreement, in particular clause 8.2(d), the Directors may pass a resolution without a Directors’ meeting being held if all Directors entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document; and
+(b) separate copies of a document may be used for signing by Directors if the wording of the resolution and statement is identical in each copy.
+7.5 Resolutions - Search Period
+During the Search Period, the Searchers (as the only Directors) may pass a resolution by recording it and signing the record.
+8. Management
+8.1 Search Period
+During the Search Period:
+(a) the Searchers shall be employees of the Company and receive a salary of $110,000 each per annum (inclusive of superannuation);
+(b) the Searchers must:
+(i) devote their full business time and efforts to the performance of their relevant duties and responsibilities;
+(ii) use their best efforts to promote the interests of the Company and to identify investment opportunities, with the aim of ensuring that the purpose of the Company as set out in clause 3.3(a) is achieved;
+(iii) present investment opportunities identified by them to the Company and the Shareholders; and
+(iv) not engage in any activity which would reasonably be expected to interfere with the performance of their relevant duties and responsibilities;
+(c) the Company may engage other staff and consultants as it considers necessary on terms agreed by it; and
+(d) the management of the Business and affairs of the Company shall be vested in the Board which shall undertake the same in accordance with the provisions of this agreement, the Constitution and the Information Memorandum. 
+8.2 Operation Period
+During the Operation Period: 
+(a) the Searchers shall each be the joint CEO and receive an immediate uplift in salary as determined by the Board to reflect an appropriate market rate;
+(b) the Board is responsible for the appointment, or termination of the appointment of, the joint CEOs in accordance with clause 8.2(d);
+(c) subject to any prior approvals required under this agreement, in particular clause 8.2(d), the management of the Business and affairs of the Company shall be vested in the Board which shall undertake the same in accordance with the provisions of this agreement, the Constitution and the then current Business Plan;
+(d) the Company (or any subsidiary of the Company) may only do, or commit to do, the things listed in: 
+(i) Part A of Schedule 4 with the approval of a resolution of Directors passed by a two-thirds or greater majority of the number of Directors; and
+(ii) Part B of Schedule 4 with the approval of a resolution of Series B Preference Shareholders passed by Series B Preference Shareholders who together hold more than half of the total number of Series B Preference Shares; and
+(e) if the Directors or Series B Preference Shareholders (as the case may be) are unable to reach agreement on any matter, including any relevant matter listed in Schedule 4, the parties must use all reasonable endeavours in good faith to resolve the dispute however if it cannot be resolved within 30 days the dispute will be dealt with in the following manner: 
+(i) where the dispute involves approval of a new Business Plan, the Company will continue to be managed under the existing Business Plan until a new Business Plan is approved; and
+(ii) in any other case, the Directors or Series B Preference Shareholders (as the case may be) will be taken to have recommended that no action be taken on the matter.
+9. Shareholders 
+9.1 Meetings
+(a) A quorum for a meeting of Shareholders (Shareholder Meeting) is at least three Shareholders who may be present in person or by proxy.
+(b) A Shareholder Meeting that does not have a quorum present within 30 minutes after the time for the Shareholder Meeting set out in the notice of Shareholder Meeting is adjourned to the date, time and place the Directors specify.  If the Directors do not specify one or more of those things, the Shareholder Meeting is adjourned to:
+(i) 	if the date is not specified - the same day in the next week;
+(ii) 	if the time is not specified - the same time; and
+(iii) 	if the place is not specified - the same place. 
+(c) The quorum requirements at the resumed Shareholder Meeting is at least two Shareholders who may be present in person or by proxy.  If no quorum is present at the resumed Shareholder Meeting within 30 minutes after the time for the Shareholder Meeting, the Shareholder Meeting is dissolved.
+(d) Shareholders may conduct their meetings wholly or partly by telephone conference or video conference facility or other electronic device.
+9.2 Circulating Resolutions
+(a) Subject to any other approvals required under this agreement, in particular clause 8.2(d), the Shareholders may pass a resolution without a Shareholders Meeting being held if all of the Shareholders entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document.
+(b) Separate copies of a document may be used for signing by Shareholders if the wording of the resolution and statement is identical in each copy.
+10. Records and Minutes
+(a) The Company must maintain and keep minute books in accordance with the Corporations Act.
+(b) The minute books will record proceeds of:
+(i) 	every Shareholder Meeting and all resolutions passed by the Shareholders whether such resolution is passed at a Shareholder Meeting or in accordance with clause 9.2; and
+(ii) 	every meeting of the Directors and all resolutions passed by the Directors whether such resolution is passed at a Board meeting or in accordance with clause 7.4 or clause 7.5.
+(c) Minutes of meetings will be signed by the Chairperson within a reasonable time after the meeting.
+(d) The Company shall provide to a Shareholder upon their request:
+(i) a copy in writing of any minutes of a Shareholder Meeting or Board meeting; and
+(ii) 	a copy of any minutes of a resolution passed by the Shareholders or the Board. 
+11. Administrative Matters
+11.1 Company Secretary
+The secretary of the Company shall be a person determined by the Board.
+11.2 Auditors
+During the Operation Period, the auditors of the Company will be a person or organisation determined by the passing of a resolution by the Directors in accordance with clause 8.2(d).
+11.3 Registered Office
+The Company's registered office shall be located at Level 21, 91 King William Street Adelaide SA 5000 or such other address determined by the Board.
+11.4 Negotiable Instruments
+(a) During the Search Period, the Searchers may sign, draw, accept, endorse or otherwise execute a negotiable instrument of the Company.
+(b) During the Operation Period, any two Directors (comprising one Director appointed pursuant to clause 6.2(b)(i) and one Director appointed pursuant to clause 6.2(b)(ii)) may sign, draw, accept, endorse or otherwise execute a negotiable instrument of the Company.  The Board may determine that negotiable instruments up to a certain amount may be signed, drawn, accepted, endorsed or otherwise executed in a different way.
+12. Dividend Policy
+12.1 Search Period
+During the Search Period, the Company will not pay any dividends to Shareholders.
+12.2 Operation Period
+Subject to the rights attached to Shares and the requirements under the Corporations Act, during the Operation Period, the Company will only pay dividends to Shareholders if the approval required under clause 8.2(d) is obtained.
+
+
+13. Business Plan - Operation Period
+13.1 Initial Business Plan
+As soon as practicable following Completion, the Board shall cause the Business Plan in respect of the Financial Year ending the next 30 June (or the 30 June thereafter if Completion occurs in the final two months of a Financial Year, in which case that Business Plan will also incorporate that short additional earlier period) to be prepared by the Company and approved by the Board (Initial Business Plan).
+13.2 Timing
+In relation to each Business Plan following the Initial Business Plan, the Board shall cause the Company to prepare before 1 May in each year the Business Plan in respect of the following Financial Year.
+13.3 Management
+(a) Each Shareholder undertakes to each other Shareholder and to the Company to exercise its rights as a holder of Shares to ensure that the Company conducts Business in accordance with the Initial Business Plan until a new Business Plan is approved and adopted by the Board in accordance with clause 13.4.
+(b) Each Shareholder undertakes to each other Shareholder and to the Company to exercise its rights as a holder of Shares to ensure that, if the Board fails to adopt a Business Plan in accordance with clause 13.4, the Business is conducted on the basis of the existing Business Plan.
+(c) Each Shareholder undertakes to each other Shareholder and to the Company to exercise its rights as a holder of Shares to ensure that, on a new Business Plan being adopted under clause 13.4, the Business is conducted on the basis of such new Business Plan.
+13.4 Approval
+A copy of each Business Plan proposed by the Company referred to in clause 13.2 shall be prepared by the Company's management and distributed by the Chairperson to each of the Directors on or before 15 May each year for consideration and approval by the Board.
+
+
+
+
+14. Records, Financial Management and Accounting
+14.1 Books of Account
+(a) The Company shall keep or cause to be kept at its registered office full, accurate and proper books of account and other records relating to the transactions, business and affairs of the Company. 
+(b) Each Shareholder is entitled, at any time during ordinary business hours, and whether personally or by its authorised agent to inspect and to copy at its expense the records of the Company referred to in clause 14.1(a).
+14.2 Notices and Documents
+(a) Each Shareholder shall promptly advise the other Shareholders and the Company of all material notices, documents or information received by it in relation to the Company which are likely to be of material interest to the other Shareholders and the Company and all such notices, documents and information (in addition to the books of account and other records referred to in clause 14.1) shall be treated as being strictly confidential to the Shareholders.
+(b) Each Director shall notify the Board immediately if he or she becomes aware of any notices, documents or information in relation to the Company which may be of interest to the Board or which may have an adverse effect on the Business and other operations of the Company.
+14.3 Shareholder Records
+Each Shareholder shall keep and maintain full, accurate and proper books of account and other records relating to their dealings and transactions with the Company.
+14.4 Search Period
+During the Search Period, the Company must provide a written update to the Shareholders at least once every three months summarising the transactions, business and affairs of the Company during the relevant period (including any material developments in relation to a possible Acquisition).
+14.5 Operation Period
+(a) During the Operation Period:
+(i) as soon as reasonably practicable and in any event not later than three weeks after the expiry of each quarter, the Company shall cause quarterly management accounts for the Company to be prepared and provided to the Shareholders; and
+(ii) as soon as reasonably practicable and in any event not later than three calendar months after the expiry of each Financial Year, the Company shall cause a statement of financial performance and statement of financial position for the Company to be prepared and provided to the Shareholders.
+(b) In the accounts and financial statements referred to in clause 14.5(a), the Company shall make allowance for such reasonable reserves or provisions for or in respect of any depreciation or other diminution in value and any contingent or other liability determined by the Board.
+(c) The Company must ensure that the financial statements referred to in clause 14.5(a)(ii) are audited annually by an auditor appointed in accordance with clause 8.2(d).
+(d) Subject to the mandatory operation of law and the requirements of the auditors, the statement of financial performance and statement of financial position of the Company referred to in clause 14.5(a) shall be prepared and made up in accordance with accounting principles and standards consistently applied from year to year.
+15. Funding and Completing an Acquisition
+15.1 Funding Generally
+In order to fund and complete an Acquisition:
+(a) equity funding must be through the issue of new Series A Preference Shares and new Series B Preference Shares;
+(b) the Company may determine in its absolute discretion how the Acquisition will be funded as between the proportion of debt funding and equity funding; and 
+(c) in relation to equity funding, an equal proportion of new Series A Preference Shares and new Series B Preference Shares will be offered by the Company (unless otherwise determined by the Company).
+15.2 Redemption and Step Up
+(a) The parties acknowledge that: 
+(i) the terms of the Redeemable Preference Shares provide that the Company must redeem each Redeemable Preference Share for $1.00 at Completion; and
+(ii) on such redemption, the Redeemable Preference Shares are cancelled (as required under the Corporations Act).
+(b) At Completion:
+(i) the Company agrees to issue at a one-third discount to each Redeemable Preference Shareholder the number of new Series A Preference Shares and new Series B Preference Shares that can be subscribed for from the amount the Company is required to pay the relevant Redeemable Preference Shareholder to redeem its Redeemable Preference Shares in the same proportion of all new Series A Preference Shares and new Series B Preference Shares offered by the Company to fund the Acquisition; and
+(ii) each Redeemable Preference Shareholder irrevocably directs the Company to retain the monies payable by the Company to it in relation to the redemption of its Redeemable Preference Shares and apply such monies as the subscription monies for the relevant new Series A Preference Shares and new Series B Preference Shares issued under clause 15.2(b)(i).
+(c) In relation to the direction given to the Company under clause 15.2(b)(ii): 
+(i) each Redeemable Preference Shareholder agrees and acknowledges that the Company's compliance with such direction will be in full and final satisfaction of the Company's obligation to pay the monies to it in relation to the redemption of its Redeemable Preference Shares; and
+(ii) the Company agrees and acknowledges that its compliance with such direction will be in full and final satisfaction of the obligation of each Redeemable Preference Shareholder to pay the subscription monies for the relevant new Series A Preference Shares and new Series B Preference Shares issued to it under clause 15.2(b)(i).
+(d) The parties agree and acknowledge that:
+(i) clause 15.3 does not apply to the issue of new Series A Preference Shares and new Series B Preference Shares under clause 15.2(b)(i); and
+(ii) the issue price of each new Series A Preference Share and new Series B Preference Share issued under clause 15.2(b)(i) is deemed to be $1.00 (notwithstanding each issue was made at a discount) and such new Series A Preference Shares and new Series B Preference Shares are deemed to be fully paid on issue.
+15.3 Further Issue of Shares
+(a) Subject to clause 15.2(d)(i), the Company grants to each Redeemable Preference Shareholder a right of first offer with respect to the issue of new Series A Preference Shares and new Series B Preference Shares to be offered and issued in order to fund the Acquisition (Acquisition Shares) on the terms set out in clauses 15.3(b) to 15.3(f) (both inclusive).
+(b) Prior to resolving to issue any Acquisition Shares to any person, the Company must deliver a notice to each Redeemable Preference Shareholder (Acquisition Share Notice):
+(i) stating its intention to offer and issue Acquisition Shares;
+(ii) 	stating the aggregate number of new Series A Preference Shares and new Series B Preference Shares to be offered;
+(iii) confirming the subscription price for each Acquisition Share is $1.00 and that the Acquisition Shares will be issued prior to or at Completion; and
+(iv) which sets out the material terms of, and other material information in relation to, the proposed Acquisition (including, without limitation, the purchase price of the proposed Acquisition, how the Company intends to finance the proposed Acquisition, the structure of the proposed Acquisition and details in relation to the business of the proposed Target).
+(c) Within 15 Business Days of receipt of an Acquisition Share Notice, a Redeemable Preference Shareholder, or a Related Entity of a Redeemable Preference Shareholder, may elect to purchase, at the price and on the terms specified therein, Acquisition Shares in or up to the same proportion that the number of Redeemable Preference Shares held by such Redeemable Preference Shareholder bears to the total number of issued Redeemable Preference Shares and on the basis that a Redeemable Preference Shareholder must acquire both new Series A Preference Shares and new Series B Preference Shares on a proportional basis of all new such shares offered by the Company to fund the Acquisition.  A Redeemable Preference Shareholder may also make a request in its acceptance to purchase additional Acquisition Shares in the event any Acquisition Shares are unclaimed.
+(d) If any Redeemable Preference Shareholder or its Related Entity does not accept its proportion of Acquisition Shares in full, the Company will allocate by written notice those Acquisition Shares not the subject of acceptances between those Redeemable Preference Shareholders who both accepted their full proportion of Acquisition Shares and made a request for additional Acquisition Shares (Fully Exercising Redeemable Preference Shareholder) with a view to satisfying all claims made by Fully Exercising Redeemable Preference Shareholders for additional Acquisition Shares.  If the number of unclaimed Acquisition Shares is less than is necessary to satisfy all claims, the unclaimed Acquisition Shares will be allocated between the Fully Exercising Redeemable Preference Shareholders on a basis as consistent as possible with their current proportion of Redeemable Preference Shares held.
+(e) If any Acquisition Shares are not elected to be purchased as provided in clauses 15.3(c) and 15.3(d), the Company may, during the period of 30 days following the expiration of the period in clause 15.3(c), offer the number of remaining Acquisition Shares to any person or persons at a cash price per Acquisition Share not less than, and on terms no more favourable than, that specified in the Acquisition Share Notice, provided that such person, on or prior to the issue and allotment of the Acquisition Shares, undertakes and agrees to be bound by and subject to the terms of this agreement as a Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession.
+(f) If any Acquisition Shares are not issued by the Company within the offer period set out in clause 15.3(e) those Acquisition Shares must not be issued to any person unless they are first re-offered in accordance with clause 15.3(b).
+16. Issue of Shares - Operation Period
+16.1 Rights of First Offer for New Shares
+Subject to clause 16.3, during the Operation Period the Company grants to each Series B Preference Shareholder and Ordinary Shareholder (Eligible Shareholder) a right of first offer with respect to future issues of Shares or securities convertible to Shares (New Shares) on the terms set out in clause 16.2.
+16.2 Offer Procedure for New Shares
+(a) Prior to resolving to issue any New Shares to any person, the Company must deliver a notice to each Eligible Shareholder (New Share Notice) stating:
+(i) its intention to offer and issue New Shares;
+(ii) 	the class or classes of New Shares to be offered;
+(iii) 	the aggregate number of New Shares to be offered; and
+(iv) the subscription price for which it proposes to offer New Shares.
+(b) Within 15 Business Days of receipt of a New Share Notice, an Eligible Shareholder, or a Related Entity of an Eligible Shareholder, may elect to purchase, at the price and on the terms specified therein, New Shares in or up to the same proportion that the number of Shares held by such Eligible Shareholder bears to the total number of issued Series B Preference Shares and Ordinary Shares.  An Eligible Shareholder may also make a request in its acceptance to purchase additional New Shares in the event any New Shares are unclaimed.
+(c) If any Eligible Shareholder or its Related Entity does not accept its proportion of New Shares in full, the Company will allocate by written notice those New Shares not the subject of acceptances between those Eligible Shareholders who both accepted their full proportion of New Shares and made a request for additional New Shares (Fully Exercising Eligible Shareholder) with a view to satisfying all claims made by Fully Exercising Eligible Shareholders for additional New Shares.  If the number of unclaimed New Shares is less than is necessary to satisfy all claims, the unclaimed New Shares will be allocated between the Fully Exercising Eligible Shareholders on a basis as consistent as possible with their current proportion of Series B Preference Shares and Ordinary Shares held.
+(d) If any New Shares are not elected to be purchased as provided in clauses 16.2(b) and 16.2(c), the Company may, during the period of 30 days following the expiration of the period in clause 16.2(b), offer the number of remaining New Shares to any person or persons at a cash price per New Share not less than, and on terms no more favourable than, that specified in the New Share Notice, provided that such person, on or prior to the issue and allotment of the New Shares, undertakes and agrees to be bound by and subject to the terms of this agreement as a Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession.
+(e) If any New Shares are not issued by the Company within the offer period set out in clause 16.2(d) those New Shares must not be issued to any person unless they are first re-offered in accordance with clause 16.2(a).
+16.3 Excluded Issues
+The parties agree that clauses 16.1 and 16.2 do not apply to: 
+(a) the grant of the First Options, Second Options and Third Options to the Searchers and the issue of Ordinary Shares to the Searchers (or Related Entity as applicable) on the exercise of such options; and
+(b) the issue of new Ordinary Shares under a share option, share incentive or other scheme or trust for the benefit of employees of the Company up to 5% of the total number of Series B Preference Shares and Ordinary Shares on issue in the Company (on a fully diluted basis).
+16.4 Payments
+(a) The Board may from time to time following the: 
+(i) issue of any Second Tranche Shares and/or Third Tranche Shares to the Searchers (or Related Entity as applicable);
+(ii) redemption of all of the Series A Preference Shares; and
+(iii) return by the Company of all of the share capital on all of the Series B Preference Shares under a share capital reduction (or share capital reductions) undertaken in accordance with clause 4.3(b),
+determine that the Company (or a subsidiary of the Company) make payments to the Searchers (on a 50:50 basis) up to amounts that would have been payable to them (or Related Entity as applicable) as a dividend as the holder of those Ordinary Shares if at the time such dividend was paid by the Company such Ordinary Shares had been issued.
+(b) The Board may also from time to time following the: 
+(i) satisfaction of the Third Option Vesting Condition;
+(ii) redemption of all of the Series A Preference Shares; and
+(iii) return by the Company of all of the share capital on all of the Series B Preference Shares under a share capital reduction (or share capital reductions) undertaken in accordance with clause 4.3(b),
+determine that the Company (or a subsidiary of the Company) make payments to the Searchers (on a 50:50 basis) up to amounts equal to:
+A x (B / C)
+Where:
+A =	the aggregate amount of any dividend paid to Series A Preference Shareholders;
+B =	the number of Ordinary Shares held by the Searchers (or Related Entity as applicable) at the time the relevant dividend is paid; and
+C =	the number of Series A Preference Shares on issue at the time the relevant dividend is paid.
+(c) For the avoidance of doubt, a payment may be made under clause 16.4(a) and under clause 16.4(b) immediately prior to the occurrence of a Sale Event if at the time of the relevant payment:
+(i) all of the Series A Preference Shares have been redeemed; and
+(ii) the Company has returned all of the share capital on all of the Series B Preference Shares under a share capital reduction (or share capital reductions) undertaken in accordance with clause 4.3(b).
+(d) Any payments made by the Company (or a subsidiary of the Company) to a Searcher under clauses 16.4(a) and 16.4(b) will be classified:
+(i) where the relevant payment is made by the Company (or a subsidiary of the Company) at a time when the Searchers are the only Ordinary Shareholders, as a dividend, an additional payment made by the Company (or a subsidiary of the Company) to the Searchers under the employment contract between the Company (or a subsidiary of the Company) and them or a combination of both as determined by the Board; or
+(ii) where the relevant payment is made by the Company (or a subsidiary of the Company) at a time when the Searchers are not the only Ordinary Shareholders, as an additional payment made by the Company (or a subsidiary of the Company) to the Searchers under the employment contract between the Company (or a subsidiary of the Company) and them.
+17. Disposal of Shares
+17.1 Disposal of Shares - Search Period
+During the Search Period, a Shareholder must not Dispose of any interest in any of its Shares except:
+(a) pursuant to and in accordance with clause 19; or
+(b) to a Related Entity of that Shareholder provided that, prior to the transfer of the relevant Shares, the relevant Related Entity undertakes and agrees to be bound by and subject to the terms of this agreement as if it was the relevant Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession (and if such transferee ceases to be a Related Entity then the Shares must be transferred back to the original Shareholder as soon as practicable).
+17.2 Disposal of Shares - Operation Period
+(a) During the Operation Period, a Shareholder must not Dispose of any interest in any of its Shares except:
+(i) 	subject to clause 17.4, strictly in accordance with this clause 17.2 (which only applies during the Operation Period) and clause 17.3; 
+(ii) pursuant to and in accordance with clause 18 or clause 19; or 
+(iii) 	to a Related Entity of that Shareholder provided that, prior to the transfer of the relevant Shares, the relevant Related Entity undertakes and agrees to be bound by and subject to the terms of this agreement as if it was the relevant Shareholder by executing and delivering to the Company and each other Shareholder a Deed of Accession (and if such transferee ceases to be a Related Entity then the Shares must be transferred back to the original Shareholder as soon as practicable).
+(b) A Shareholder that wishes to Dispose of any interest in any of its Shares must:
+(i) Dispose of a fixed number of Shares and all rights and benefits attaching to those Shares; 
+(ii) 	Dispose pursuant to a bona fide arms length agreement; and
+(iii) 	receive, in relation to the Disposal, cash payable in full on the date of Disposal.
+(c) If a Shareholder (Selling Shareholder) wishes to Dispose of any interest in any of its Shares (Sale Shares) it must first give written notice to the Company setting out the cash price payable per Sale Share (Sale Price) upon which it is willing to sell the Sale Shares (Sale Notice).
+(d) The Company has 30 days from receipt of the Sale Notice (Company Response Period) to notify the Selling Shareholder in writing that either:
+(i) it offers to buy-back all of the Sale Shares for the Sale Price as a selective share-buy back in accordance with the Corporations Act, in which case the notice must comply with section 257G of the Corporations Act including by attaching a buy-back agreement (Buy-Back Agreement) which must:
+(A) provide that:
+(1) the Selling Shareholder agrees to sell, and the Company agrees to buy-back, the Sale Shares for the Sale Price;
+(2) completion is conditional on Shareholder approval in accordance with section 257D(1) of the Corporations Act being obtained (Condition);
+(3) the Selling Shareholder and the Company must each use their reasonable endeavours to ensure that the Condition is satisfied as soon as practicable after the date of the Buy-Back Agreement and, in any event, before the date is that is 60 days after the date of the Buy-Back Agreement (Sunset Date);
+(4) the Condition cannot be waived;
+(5) if the Condition is not satisfied before the Sunset Date, then the Buy-Back Agreement shall automatically terminate on that date; and
+(6) the completion date is the Business Day immediately following the date that the Condition is satisfied; and
+(B) include such general provisions as are found in comparable commercial agreements including completion obligations, warranties and confidentiality obligations as determined by the Company; or
+(ii) it does not wish to buy-back all of the Sale Shares,
+       (Company Notice).
+(e) If a Company Notice is given under clause 17.2(d)(i): 
+(i) the Selling Shareholder:
+(A) irrevocably appoints each Director as the joint and several attorneys of the Selling Shareholder to enter into and execute in the name of the Selling Shareholder and on its behalf: 
+(1) the Buy-Back Agreement; and 
+(2) any other documents required in connection with the Buy-Back Agreement or transactions required to give effect to the Buy-Back Agreement, including all share transfer forms, consents, authorisations, resolutions, nominations, instruments, certificates, regulatory filings and notices; and
+(B) ratifies and confirms all such actions carried out on its behalf by such attorney or attorneys; and
+(ii) the Company must procure that the Buy-Back Agreement is duly executed by the Company and the Selling Shareholder within five Business Days of receipt by the Selling Shareholder of the Company Notice.
+(f) If applicable, on the earlier of the date that is five Business Days after:
+(i) the date during the Company Response Period that the Selling Shareholder receives a Company Notice under clause 17.2(d)(ii);
+(ii) the expiry of the Company Response Period in circumstances where on such date the Selling Shareholder has not received a Company Notice under clause 17.2(d); and
+(iii) the date that the Buy-Back Agreement terminates in accordance with its terms (without completion under the Buy-Back Agreement having occurred),
+the Selling Shareholder must give written notice (Transfer Notice) to each other Shareholder who holds Shares in the same class of Shares (Offeree) setting out the Sale Price.  For the purposes of clauses 17.2(f) to 17.2(m), Ordinary Shares and Series B Preference Shares are to be treated as one and the same class of Shares.  For the avoidance of doubt, this means that a Transfer Notice given under this clause 17.2(f) by: 
+(iv) an Ordinary Shareholder must be given to each other Ordinary Shareholder and all Series B Preference Shareholders; or
+(v) a Series B Preference Shareholder must given to each other Series B Preference Shareholder and all Ordinary Shareholders.
+(g) A Transfer Notice given to an Offeree by the Selling Shareholder under clause 17.2(f) constitutes an offer by the Selling Shareholder to each Offeree to sell the Sale Shares on the terms and conditions set out in the Transfer Notice (Offer).  If there is more than one Offeree, the Sale Shares must be offered for sale to each Offeree in the same proportion that the number of Shares in the relevant class of Shares held by such Offeree bears to the total number of Shares held by all Offerees in the relevant class of Shares.
+(h) Each Offeree has 30 days from receipt of the Offer (Offer Acceptance Period) to notify the Selling Shareholder in writing of the acceptance by it of the Offer (Acceptance) and the name and address of that Offeree's nominee (if any).
+(i) If there is more than one Offeree, or an Offeree or its nominee wishes to acquire any Sale Shares in excess of the proportion applicable to that Offeree, the Offeree must stipulate in its Acceptance the maximum number of additional Sale Shares that it or its nominee is prepared to acquire.
+(j) If any Offeree does not accept its proportion of Sale Shares in full, the Selling Shareholder will allocate by written notice those Sale Shares not the subject of acceptances between those Offerees who both accepted their full proportion of Sale Shares and in their Acceptance made a request for additional Sale Shares with a view to satisfying all claims made by Offerees for additional Sale Shares.  If the number of unclaimed Sale Shares is less than is necessary to satisfy all claims, the unclaimed Sale Shares will be allocated between the accepting Offerees on a basis as consistent as possible with their current proportion of Shares held in the relevant class of Shares.
+(k) If the Offerees do not accept the Offer in full in respect of all of the Sale Shares, that Offer shall be taken to have been withdrawn and the Selling Shareholder shall be at liberty, for a period of 60 days following the expiration of the Offer Acceptance Period, to enter into a binding agreement with a third party for the sale of those relevant Sale Shares on the terms set out in the Offer.
+(l) If the Selling Shareholder and a third party have not:
+(i) 	entered into a binding agreement contemplated in clause 17.2(k) within the period stated in that clause for so doing; or
+(ii) 	completed the sale and purchase pursuant to such agreement within a further 30 day period,
+the Selling Shareholder must not sell the Sale Shares to any person unless it again complies with the procedures set out in this clause 17.2.
+(m) The Board may refuse to register any share transfer in contravention of the foregoing provisions of this clause 17.2 unless all of the Shareholders consent in writing to the registration.
+17.3  Tag-Along
+(a) During the Operation Period, if Series B Preference Shareholders and Ordinary Shareholders (Transferor) propose to Dispose of any interest in any of their Series B Preference Shares and Ordinary Shares (as applicable) other than in accordance with clause 17.2(a)(iii) and those Shares constitute a majority of the total number of Series B Preference Shares and Ordinary Shares, the Transferor must give written notice (Tag-Along Notice) to each other Shareholder (including, for the avoidance of doubt, Series A Preference Shareholders) (Other Shareholders) setting out:
+(i) the class and number of Shares proposed to be Disposed of and the proportion of the total number of Series B Preference Shares and Ordinary Shares held by the Transferor that they comprise (Relevant Proportion);
+(ii) the identity of the proposed purchaser of those Shares; and
+(iii) 	the full terms of the proposed purchase (including the cash price payable per Share), which must be on the same terms for each Shareholder except in relation to price which needs to be consistent with and reflective of rule 21 of the Constitution, and of any related agreements with the proposed purchaser of those Shares.
+(b) If any Other Shareholder wishes to transfer up to the Relevant Proportion of its Series B Preference Shares and Ordinary Shares on the same terms as those specified in the Tag-Along Notice, such Other Shareholder must, within 10 Business Days of receipt of the Tag-Along Notice, give written notice to the Transferor of its intention to do so specifying the number of Series B Preference Shares and Ordinary Shares it wishes to transfer (Tag-Along Shares).
+(c) If any Other Shareholder gives a notice under clause 17.3(b), the Transferor must ensure that the Tag-Along Shares are purchased on the same terms as the Transferor is selling its relevant Shares subject to clause 17.3(a)(iii).
+(d) The Transferor must not Dispose of any interest in any of its relevant Shares, other than in accordance with clause 17.2(a)(iii):
+(i) 	unless the Transferor has given a Tag-Along Notice in compliance with clause 17.3(a) and each Other Shareholder has confirmed in writing to the Transferor in response to the Tag-Along Notice that it does not wish to transfer up to the Relevant Proportion of its relevant Shares or has not served a notice under clause 17.3(b) within the period set out in that clause for the service of that notice; or
+(ii) 	if any Other Shareholder has given a notice under clause 17.3(b), unless the Transferor has completed the purchase of the Tag-Along Shares.
+17.4 Disposal of Shares - Post-Completion
+(a) In the event that:
+(i) Completion occurs; and
+(ii) the Redeemable Preference Shareholders in aggregate did not subscribe for at least 50% of the Acquisition Shares which were issued in accordance with clause 15.3,
+the parties acknowledge that the intention is that within 90 days of Completion all Shares issued under clause 15.2(b)(i) to any Redeemable Preference Shareholder who did not subscribe for any Acquisition Shares under clause 15.3 will be bought-back by the Company and/or acquired by other Shareholders, in each case subject to agreement at the relevant time.
+(b) The parties agree that clause 17.2 will not apply to any buy-back or acquisition of Shares as contemplated by clause 17.4(a). 
+18. Drag-Along
+18.1 Drag-Along Notice
+If Series B Preference Shareholders and Ordinary Shareholders who together hold more than half of the total number of Series B Preference Shares and Ordinary Shares (Transferor) find a bona fide purchaser who has offered to purchase all of the Shares (including, for the avoidance of doubt, the Series A Preference Shares) (Offer), the Transferor may serve a notice (Drag-Along Notice) on the other Shareholders (including, for the avoidance of doubt, Series A Preference Shareholders) (Other Shareholders) within 30 days of receiving the Offer:
+(a) specifying the identity of the proposed bona fide arms length purchaser who proposes to purchase all the Shares (Proposed Purchaser);
+(b) specifying the full terms of the Offer (including as to the proposed consideration and completion date), which must be on the same terms for each Shareholder except in relation to price which needs to be consistent with and reflective of rule 21 of the Constitution, and of any related agreements with the Proposed Purchaser; and
+(c) attaching a copy of the Offer.
+18.2 Transfer
+Upon payment in full of the consideration payable for all the Shares on the terms specified in the Drag-Along Notice, the Transferor and the Other Shareholders must, unless otherwise agreed by the parties, deliver to the Proposed Purchaser:
+(a) duly executed transfers and share certificates in respect of the Shares held by that Shareholder, together with such signed discharges and/or releases as are necessary for those Shares to be transferred free of any Encumbrances, and will procure the Company to register the transfers of such Shares; and
+(b) such other documents as are required to effect the transfer of Shares pursuant to the Offer on the terms negotiated (or approved) by the solicitors for the time being acting for the Company.
+18.3 Default
+If a Shareholder (Defaulting Shareholder) fails to comply with this clause 18, each Director is hereby irrevocably appointed as the joint and several attorneys of the Defaulting Shareholder to do all such acts, matters and things and to execute transfers and other documents on behalf of the Defaulting Shareholder to effect compliance by the Defaulting Shareholder with its obligations under clause 18.2, and the Defaulting Shareholder hereby ratifies and confirms all such actions carried out on its behalf by the attorney or attorneys.
+19. Default
+19.1 Events of Default 
+Each of the following events is an Event of Default in relation to a Shareholder (Defaulting Party), whether or not the cause is beyond the control of the Defaulting Party or any other person:
+(a) the Shareholder commits a material breach of any of its obligations under this agreement and that breach is incapable of remedy or, if capable of remedy, is not remedied within 30 days of being notified in writing of the breach by another Shareholder;
+(b) an Insolvency Event occurs in relation to the Shareholder; or
+(c) in the case of a Searcher (or Related Entity as applicable), a Searcher ceasing to be an employee of the Company (or a subsidiary of the Company) as a result of his employment being terminated by the Company (or a subsidiary of the Company) due to a breach by him or his fraud or wilful misconduct. 
+19.2 Effect of Event of Default 
+(a) If an Event of Default occurs, any other Shareholder (each a Non-Defaulting Party) may give the Defaulting Party written notice (Default Notice) that:
+(i) the rights attaching to the Shares held by the Defaulting Party (Default Shares) are suspended; and
+(ii) the provisions of clause 19.3 apply pursuant to which the Default Shares may be sold and bought-back or purchased.
+(b) A copy of the Default Notice must be given to the Company and all other Non-Defaulting Parties (if any) at the same time it is given to the Defaulting Party.
+19.3 Sale of Default Shares - Valuer, Price and Process
+(a) If an Event of Default occurs in the Operation Period, within five Business Days of receiving a copy of a Default Notice, the Company must appoint:
+(i) an independent chartered accountant with suitable valuation experience unanimously approved by the Board; or
+(ii) failing unanimous approval by the Board, an independent chartered accountant with suitable valuation experience appointed by the Managing Partner (or similar officer or partner) of an independent firm of chartered accountants nominated by the President of the Law Society of Victoria,
+(the appointee being the Valuer), to determine the fair market value of the Default Shares (on the basis that the Company is a going concern). 
+(b) The Valuer will be deemed to act as an expert and not as an arbitrator and may decide the procedures to be used in the valuation in its absolute discretion.
+(c) The Valuer must be instructed to notify its valuation to the Shareholders and the Company within one calendar month of its appointment by means of a written valuation which will (in the absence of manifest error) be final and binding on the parties.
+(d) The Valuer may call for information from any party relevant to the valuation it is required to make.  Each Shareholder will be entitled to submit written representations to the Valuer in connection with the valuation.
+(e) The costs of the Valuer must be paid for by the Company unless the Valuer makes a direction as to costs, in which case such costs must be borne in accordance with the terms of that direction.
+(f) The Company has: 
+(i) if the Event of Default occurred in the Operation Period, 30 days from the Valuer notifying the Shareholders and the Company of its valuation; or
+(ii) if the Event of Default occurred in Search Period, 30 days from receiving a copy of a Default Notice,
+(Company Response Period) to notify the Defaulting Party in writing that either:
+(iii) it offers to buy-back all of the Default Shares free of any Encumbrances, the price per Default Share being equal to: 
+(A) if the Event of Default occurred in the Operation Period, the fair market value of the Default Shares determined by the Valuer divided by the number of Default Shares, less 10%; or
+(B) if the Event of Default occurred in the Search Period, $1.00,
+(Sale Price), as a selective share-buy back in accordance with the Corporations Act, in which case the notice must comply with section 257G of the Corporations Act including by attaching a buy-back agreement (Buy-Back Agreement) which must:
+(C) provide that:
+(1) the Defaulting Party agrees to sell, and the Company agrees to buy-back, the Default Shares free of any Encumbrances for the Sale Price;
+(2) completion is conditional on Shareholder approval in accordance with section 257D(1) of the Corporations Act being obtained (Condition);
+(3) the Defaulting Party and the Company must each use their reasonable endeavours to ensure that the Condition is satisfied as soon as practicable after the date of the Buy-Back Agreement and, in any event, before the date is that is 60 days after the date of the Buy-Back Agreement (Sunset Date);
+(4) the Condition cannot be waived;
+(5) if the Condition is not satisfied before the Sunset Date, then the Buy-Back Agreement shall automatically terminate on that date; and
+(6) the completion date is the Business Day immediately following the date that the Condition is satisfied; and
+(D) include such general provisions as are found in comparable commercial agreements including completion obligations, warranties and confidentiality obligations as determined by the Company; or
+(iv) it does not wish to buy-back all of the Default Shares,
+(Company Notice).
+(g) If a Company Notice is given under clause 19.3(f)(iii):
+(i) the Defaulting Party:
+(A) irrevocably appoints each Director as the joint and several attorneys of the Defaulting Party to enter into and execute in the name of the Defaulting Party and on its behalf:
+(1) the Buy-Back Agreement; and
+(2) any other documents required in connection with the Buy-Back Agreement or transactions required to give effect to the Buy-Back Agreement, including all share transfer forms, consents, authorisations, resolutions, nominations, instruments, certificates, regulatory filings and notices; and
+(B) ratifies and confirms all such actions carried out on its behalf by such attorney or attorneys; and
+(ii) the Company must procure that the Buy-Back Agreement is duly executed by both the Company and the Defaulting Party within 5 Business Days of receipt by the Defaulting Party of the Company Notice.
+(h) If applicable, on the earlier of the date that is 5 Business Days after:
+(i) the date during the Company Response Period that the Defaulting Party receives a Company Notice under clause 19.3(f)(iv);
+(ii) the expiry of the Company Response Period in circumstances where on such date the Defaulting Party has not received a Company Notice under clause 19.3(f); and
+(iii) the date that the Buy-Back Agreement terminates in accordance with its terms (without completion under the Buy-Back Agreement having occurred),
+the Defaulting Party must offer in writing to sell the Default Shares to the Non-Defaulting Parties who hold Shares in the same class of Shares as the Default Shares (Non-Defaulting Party Offeree) free of any Encumbrances for the Sale Price (Default Offer).  For the purposes of clauses 19.3(h) to 19.3(o) (and relevant only in the Operation Period), Ordinary Shares and Series B Preference Shares are to be treated as one and the same class of Shares.  For the avoidance of doubt, this means that an offer in writing given under this clause 19.3(h) by:
+(iv) an Ordinary Shareholder must be given to each other Ordinary Shareholder and all Series B Preference Shareholders; or
+(v) a Series B Preference Shareholder must given to each other Series B Preference Shareholder and all Ordinary Shareholders.
+(i) If there is more than one Non-Defaulting Party Offeree, the Default Shares must be offered for sale to each such Non-Defaulting Party Offeree in the same proportion that the number of Default Shares bears to the total number of Shares held by those Non-Defaulting Party Offerees in the same class of Shares as the Default Shares.
+(j) Each Non-Defaulting Party Offeree has 30 days from receipt of the Default Offer to notify the Defaulting Party in writing of its acceptance of the Default Offer (in full or in part) and the name and address of that Non-Defaulting Party Offeree's nominee (if any).
+(k) If there is more than one Non-Defaulting Party Offeree, and a Non-Defaulting Party Offeree or its nominee wishes to acquire any Default Shares in excess of the proportion applicable to that Non-Defaulting Party Offeree, the Non-Defaulting Party Offeree must stipulate in its acceptance the maximum number of additional Default Shares that it or its nominee is prepared to acquire.
+(l) If any Non-Defaulting Party Offeree does not accept its proportion of Default Shares in full, the Defaulting Party will allocate by written notice those Default Shares not the subject of acceptances between those Non-Defaulting Party Offerees who both accepted their full proportion of Default Shares and in their acceptance made a request for additional Default Shares, with a view to satisfying all claims made by Non-Defaulting Party Offerees for additional Default Shares.  If the number of unclaimed Default Shares is less than is necessary to satisfy all claims, the unclaimed Shares will be allocated between the accepting Non-Defaulting Party Offerees on a basis as consistent as possible with their current proportion of Shares held in the same class of Shares as the Default Shares.
+(m) If the Non-Defaulting Party Offerees do not accept the Default Offer in full in respect of all of the Default Shares, the Defaulting Party shall be at liberty to retain the Default Shares and the suspension of the rights attaching to those Default Shares shall cease.
+(n) If the Non-Defaulting Party Offerees accept the Default Offer in full in respect of all of the Default Shares, completion of the sale and purchase of the Default Shares must occur on the date requested by the Non-Defaulting Party Offerees with such date to be no later than 30 days after the expiry of the 30 day period referred to in clause 19.3(j).  At completion and upon receipt of payment in full of the consideration payable for the Default Shares, the Defaulting Party must deliver:
+(i) duly executed transfers and share certificates in respect of the Default Shares; and 
+(ii) such signed discharges and/or releases as are necessary for the Default Shares to be transferred free of any Encumbrances.
+(o) If the Defaulting Party fails to comply with clauses 19.3(h) to 19.3(n) (both inclusive), each Director is hereby irrevocably appointed as the joint and several attorneys of the Defaulting Party to do all such acts, matters and things and to execute transfers and other documents on behalf of the Defaulting Party to effect compliance by the Defaulting Party with its obligations under clauses 19.3(h) to 19.3(n), and the Defaulting Party hereby ratifies and confirms all such actions carried out on its behalf by the attorney or attorneys.
+20. Confidentiality 
+None of the parties shall disclose any information of any other party which is confidential to any person without the consent of such other party (which shall not be unreasonably withheld) provided always that that obligation shall not apply to:
+(a) disclosures required by law or requirement of any regulatory body, court or tribunal;
+(b) information which is in or comes into the public domain other than as a result of a breach of this agreement;
+(c) disclosures to the financial, accounting or legal advisers of the parties where reasonably required and provided appropriate confidentiality undertakings are obtained; and
+(d) disclosures to persons who hold an economic interest in the party who should reasonably know the information and provided appropriate confidentiality undertakings are obtained,
+and no party shall use any such confidential information other than the purpose for which it was provided to that party.
+21. Notices
+(a) A notice given under this agreement must be:
+(i) 	in writing and signed by or for the sender;
+(ii) 	directed to the recipient's address specified in this agreement or as varied by written notice; and
+(iii) 	delivered in person at, or sent by prepaid registered post or e-mail to, that address.
+(b) A notice is deemed to have been given:
+(i) if by delivery in person - on the day of delivery;
+(ii) 	if sent by prepaid registered post - six Business Days after the date of posting (if sent from an Australian address to an Australian Address) or ten Business Days after the date of posting (if sent from an Australian address to a non-Australian address or vice versa); or
+(iii) if sent by e-mail - when it is received by the recipient's e-mail server.
+(c) The provisions of this clause 21 are in addition to any other mode of service permitted by law.
+22. Dispute Resolution
+22.1 Restriction on Commencing Proceedings
+A party must not commence any court proceedings (except proceedings seeking interlocutory relief) in respect of a dispute arising out of or in relation to this agreement (Dispute) unless it has first complied with this clause 22.
+22.2 Process
+(a) A party claiming that a Dispute has arisen must give written notice to the other parties giving details of the Dispute (Dispute Notice).
+(b) Each party involved in the Dispute (Disputants) must ensure that, during the 15 Business Day period after the Dispute Notice is given (or longer period agreed between them) (Initial Period), they use reasonable endeavours to resolve the Dispute.
+(c) If the Disputants do not resolve the Dispute pursuant to clause 22.2(b) within the Initial Period, the Disputants must refer the Dispute to mediation and the President of the Law Society of Victoria or the President's nominee will select the mediator and determine the mediator's remuneration.
+(d) If the Disputants do not resolve the Dispute pursuant to clause 22.2(c) within 40 Business Days after the Dispute was referred to mediation, the Disputants may commence court proceedings.
+22.3 Breach
+If, in relation to a Dispute, a Disputant fails to comply with clause 22.2, each other Disputant need not comply with clause 22.2 in relation to that Dispute.
+23. GST
+23.1 Interpretation
+In this clause 23, a word or expression defined in the A New Tax System (Goods and Services Tax) Act 1999 (Cth) has the meaning given to it in that Act. 
+23.2 GST Gross Up
+If a party makes a supply under or in connection with this agreement in respect of which GST is payable, the consideration for the supply but for the application of this clause (GST Exclusive Consideration) is increased by an amount equal to the GST Exclusive Consideration multiplied by the rate of GST prevailing at the time the supply is made. 
+23.3 Reimbursements
+If a party must reimburse or indemnify another party for a loss, cost or expense, the amount to be reimbursed or indemnified is first reduced by any input tax credit the other party is entitled to for the loss, cost or expense, and then increased in accordance with clause 23.2.
+23.4 Tax Invoice
+A party does not have to make a payment for a taxable supply made under or in connection with this agreement until it receives a tax invoice for the supply to which the payment relates. 
+24. Termination
+24.1 Automatic Termination
+Subject to clause 24.2, this agreement terminates automatically:
+(a) if all parties agree;
+(b) if there is only one Shareholder;
+(c) for a Shareholder, when it ceases to hold, directly or indirectly, any Shares in the Company at which time the Shareholder has no further rights or obligations (except under clause 20 (Confidentiality)) under this agreement;
+(d) when the Company is wound up by an order of a Court; or
+(e) on the day an agreement to sell all of the Shares is completed.
+24.2 Accrued Rights
+Termination of this agreement is without prejudice to any accrued rights of a party to this agreement.
+25. General
+25.1 Governing Law and Jurisdiction
+This agreement shall be governed by and construed in accordance with the laws applicable in Victoria and the parties hereby submit to the non-exclusive jurisdiction of the courts of Victoria in respect of all matters arising under or relating to this agreement.
+25.2 Entire Agreement
+(a) Except insofar as the Constitution relates to those matters, this agreement constitutes the entire agreement between the parties about its subject matter and supersedes all prior contracts, arrangements and understandings.
+(b) This agreement can only be altered in writing signed by all parties.
+25.3 Waivers
+A waiver by a party of any of its rights under this agreement:
+(a) must be in writing; and
+(b) does not operate as a waiver of any other right or as a future waiver of that or any other right.
+25.4 Assignment and Encumbrances
+Other than as permitted under this agreement, no party may Dispose of or Encumber its rights under this agreement without the prior consent of all the other parties.
+25.5 Costs and Expenses
+Each party will pay their own legal fees, costs and expenses associated with the negotiation, preparation and execution of this agreement.
+25.6 Stamp Duty
+All stamp duty assessed in connection with the transfer of Shares shall be paid for by the purchaser of those Shares, who shall indemnify the seller against any late payment or non-payment of such duty.
+25.7 Further Action
+Each party will, at its own cost, do all things and sign all documents reasonably necessary to give effect to this agreement and the transactions contemplated by it.
+25.8 No Merger
+None of the provisions of this agreement merge on termination, settlement or completion of this agreement, nor are affected by the signing and/or delivery of any other document.
+25.9 Relationship
+The parties mutually acknowledge and agree that this agreement shall not be construed as constituting an association, company or partnership and nothing in this agreement shall be deemed to constitute a Shareholder a partner, agent or legal representative of any other Shareholder for any purpose whatsoever save and except as expressly stated in this agreement.
+25.10 Counterparts
+This agreement may be executed in any number of counterparts and all of those counterparts taken together constitute one and the same instrument.  An executed counterpart may be delivered by e-mail.
+
+Schedule 1 Shareholders
+Shareholder DetailsSharesNotice Details1. NS Fund – Long Term Investments 100,000 Redeemable Preference Shares 
+15.4%Attention: Christian Malek
+Email: cm@novastone-ca.comTotal650,000 Redeemable Preference Shares 
+100% 
+Schedule 2 Deed of Accession
+Deed Poll
+Dateby[insert] of [insert]
+(Acceding Party)in favour of[insert] of [insert]
+(Existing Shareholders)
+and
+Crux Capital Partners Pty Ltd (ACN 654 447 140) of Level 21, 91 King William Street Adelaide SA 5000 
+(Company)
+and
+Chai Rachabattuni and Orlando Guerra both of 1012/470 St Kilda Road, Melbourne VIC 3004
+(Searchers)RecitalsThis deed is supplemental to a Shareholders Agreement dated 23 November 2021 in relation to the Company (Shareholders Agreement).OPERATIVE PART2. Acceding Party to be Bound
+The Acceding Party confirms to the Existing Shareholders, the Company and the Searchers that it has been supplied with a copy of the Shareholders Agreement and covenants with all Existing Shareholders, the Company and the Searchers to observe, perform and be bound by all the terms of the Shareholders Agreement so that the Acceding Party is deemed, from the date on which the Acceding Party is registered as a holder of shares in the Company, to be a party to the Shareholders Agreement.
+3. Representations and Warranties
+The Acceding Party represents and warrants to the Existing Shareholders, the Company and the Searchers that:
+(a) (incorporation) if it is a company, it is a company duly incorporated and validly existing under the laws of the country of its incorporation;
+(b) (power) it has the power to enter into and perform its obligations under this document and to carry out the transactions contemplated by the Shareholders Agreement;
+(c) (action) it has taken all necessary action to authorise the entry into and performance of this document and to carry out the transactions contemplated by the Shareholders Agreement;
+(d) (binding obligation) this document creates valid and binding obligations on the Acceding Party in accordance with its terms;
+(e) (no contraventions) neither the execution and performance by it of this document nor any transaction contemplated under the Shareholders Agreement will result in the contravention of:
+(i) if it is a company - its constituent documents; or
+(ii) any other document, agreement or other arrangement binding upon it or its assets.
+4. Address for notice
+The address of the Acceding Party for the purposes of clause 21 of the Shareholders Agreement is, until varied in accordance with clause 21(a)(ii): 
+ACN 654 447 140 of Level 21, 91 King William Street Adelaide SA 5000
+5. Governing law
+This deed is governed by the laws of Victoria.
+
+Executed as a deed poll
+[insert signing clause/s]
+Schedule 3 Constitution of the Company
+Schedule 4 Critical Business Matters
+PART A
+1. (Accounting Policies) Any change in the Company's accounting policies or accounting reference date.
+2. (Assets) The sale, transfer, lease, assignment or Disposal of assets of the Company not in the Business Plan or entering into any contract to do so where the market value of such assets or the consideration in respect of the sale or Disposal of such assets is of itself, or when aggregated with other contracts subject to this paragraph entered into in the same Financial Year, in excess of $75,000 or such other amount as determined by the Board.
+3. (Auditor) Any decision to appoint or remove the Company's auditor.
+4. (Business) The decision to substantially alter the nature of the Business conducted by the Company and its subsidiaries, including by:
+(a) acquiring any new business, including by acquiring assets of or shares in another business or company; 
+(b) Disposing of any part of the Business;
+(c) ceasing to conduct any part of the Business through the Company or its subsidiaries; 
+(d) introducing any new business unit into the Company or its subsidiaries; or
+(e) the entrance into of joint ventures or partnerships by the Company.
+5. (Business Plan) Adopt or vary a Business Plan.
+6. (Director Fees) Any decision under clause 6.4 to pay fees to non-executive Directors.
+7. (Employees) The appointment, or termination of the appointment of, any employee of the Company (or a subsidiary of the Company) not otherwise budgeted for in the Business Plan whose remuneration is greater than or equal to an amount per annum of $75,000 (excluding superannuation) or such other amount as determined by the Board or any variation in his or her remuneration or terms of appointment (in the case of the employment of a Searcher any such decision requires the approval of a majority of the number of Directors excluding the Searchers).
+8. (Bonus) Adopt a profit sharing, bonus or other scheme or trust for the benefit of the officers or other employees or a material variation of any such scheme or trust.
+9. (Encumbrance over Business assets) Creating an Encumbrance over assets of the Business other than in the ordinary course of business.
+10. (Encumbrance over Shares) Any decision under clause 4.4 to allow a Shareholder to grant any Encumbrance over their Shares or any part of their Shares.
+11. (Expenditure) Any capital expenditure or other expenditure in excess of $75,000 or such other amount as determined by the Board in aggregate that is not specifically budgeted for in the Business Plan from time to time.
+12. (Litigation) The commencement or settlement of any litigation, arbitration or other proceedings involving the Company.
+13. (Catch Up Payment) Any decision under clause 16.4(a) or 16.4(b) to make a payment to a Searcher (including by way of dividend).
+14. (Shares) The decision to:
+(a) redeem Series A Preference Shares;
+(b) undertake a selective share capital reduction in relation to Series B Preference Shares; or
+(c) the decision to buy-back Shares under clauses 17.2, 17.4 and 19.
+15. (Transactions) The Company entering into any transaction that is not in the ordinary course of its business and not as otherwise provided for in the Business Plan.
+16. (Winding Up) It proposes a reorganisation, moratorium, deed of company arrangement or other administration involving one or more of its creditors, or its winding up or dissolution.
+17. (Monetary Thresholds) Any decision to change the relevant monetary thresholds set out in paragraphs 2, 7 and 11 of Part A of this Schedule 4.
+
+PART B
+1. (Borrowing and Lending) Borrowing or lending any sum in excess of $75,000 or such other amount as determined by the Series B Preference Shareholders in aggregate that is not specifically budgeted for in the Business Plan from time to time.
+2. (Constitution) Any amendment to the Constitution.
+3. (Dividend) Any decision to pay dividends other than dividends paid in connection with clause 16.4.
+4. (Bonus) Adopt a share option, share incentive or other scheme or trust for the benefit of the officers or other employees or a material variation of any such scheme or trust.
+5. (Guarantee) The giving of any guarantee in respect of the obligations of any person.
+6. (IPO) Causing the Company to issue shares in an initial public offering in Australia or overseas.
+7. (Public Company) Converting the Company to become registered as a public company limited by shares.
+8. (Related Party) Enter into any contract with or make any payment to a Shareholder or a Related Entity of a Shareholder (other than as specifically contemplated by this agreement).
+9. (Shares) The decision to:
+(a) issue new Shares or other equity or quasi-equity security in the Company;
+(b) convert, classify or re-classify Shares or vary any rights, preferences or privileges attaching to any Shares; or
+(c) repurchase, buy-back or redeem Shares or consolidate, reduce or otherwise alter or reorganise any of the Company's share capital, 
+excluding the decision to redeem Series A Preference Shares, the decision to undertake a selective share capital reduction in relation to Series B Preference Shares and the decision to buy-back Shares under clauses 17.2, 17.4 and 19).
+10. (Monetary Threshold) Any decision to change the relevant monetary threshold set out in paragraph 1 of Part B of this Schedule 4.
+
+Signing Page
+
+Executed as an agreement
+
+Company
+
+
+Executed by Crux Capital Partners Pty Ltd ACN 654 447 140 in accordance with section 127(1) of the Corporations Act 2001 (Cth) by:
+
+
+Signature of Director
+
+
+Signature of Director/Company Secretary
+
+
+Full name (print)
+
+
+Full name (print)
+
+Shareholders
+
+[if a Shareholder is an Australian company:]
+
+Executed by [insert company name] ACN [insert] in accordance with section 127(1) of the Corporations Act 2001 (Cth) by:
+
+
+Signature of Director
+
+
+Signature of Director/Company Secretary
+
+
+Full name (print)
+
+
+Full name (print)
+
+
+
+
+
+
+
+
+
+
+
+
+[if a Shareholder is an overseas company:]
+
+Executed by NS Fund Long Term Investments in the presence of:
+
+
+Signature of Authorised Signatory
+
+
+Signature of Authorised Signatory
+
+
+Pierre de Backer
+
+
+Christian Malek
+[if a Shareholder is an individual:]
+
+Executed by [insert name of signatory] in the presence of:
+
+
+Signature of witness
+
+
+Signature of [insert name of signatory]
+
+
+Full name of witness (print)
+
+
+Address of witness (print) 
+
+
+
+Executed by Chai Rachabattuni in the presence of:
+
+
+Signature of witness
+
+
+Signature of Chai Rachabattuni 
+
+
+Full name of witness (print)
+
+
+Address of witness (print) 
+
+Executed by Orlando Guerra in the presence of:
+
+
+Signature of witness
+
+
+Signature of Orlando Guerra
+
+
+Full name of witness (print)
+
+
+Address of witness (print) 
+Annexure A Information Memorandum
+
+
+
+
+Doc ID 765275373/v1
+
+Doc ID 765275373/v1
+
+
+
+Doc ID 765275373/v1
+
+
+
+
+
+Shareholders Agreement
+Page 33Doc ID 765275373/v1
+
+
+
+Shareholders Agreement
+Page iDoc ID 765275373/v1
+

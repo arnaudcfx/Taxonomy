@@ -1,0 +1,854 @@
+﻿    The FinaStream Fund
+    Société anonyme 
+    Société d’investissement à capital variable –
+    Fonds d’investissement alternatif réservé
+    Siège social : 
+    5, rue du Fort Rheinsheim
+    L-2419 Luxembourg
+    Grand-Duché de Luxembourg
+R.C.S. Luxembourg : 303990
+
+STATUTS 
+
+
+Section 1 – Organisation
+1  – Name 
+The name of the company is ‘The FinaStream Fund’.
+2  – Form
+The company is—
+(a) an investment company with variable capital – specialised investment fund,
+(b) in the form of a partnership limited by shares.
+3  – Applicable law
+(1) The company is subject to—
+(a) the law on specialised investment funds, the law on alternative investment fund managers, the law on commercial companies, and
+(b) the articles.
+(2) Luxembourg law governs all matters that are not regulated by the articles.
+4  – Duration
+The duration of the company is unlimited.
+5  – Registered office
+(1) The company's registered office is in Luxembourg City.
+(2) The manager may transfer the registered office of the company in accordance with the law on commercial companies—
+(a) anywhere in Luxembourg, or
+(b) temporarily abroad if it thinks natural, political, economic, or social circumstances or events might harm the company’s business in Luxembourg.
+(3) A temporary transfer abroad will not affect the company’s nationality.
+
+Section 2 – Purpose
+6  – Purpose
+(1) The company's purpose is to invest the capital that it raises on behalf of its investors in any assets eligible under the law on specialised investment funds in accordance with the principle of risk-spreading.
+(2) For purposes of paragraph (1) and subject to the prospectus and the articles, the company may, in Luxembourg or abroad—
+(a) raise capital from one or more investors,
+(b) make investments in eligible assets,
+(c) borrow in any form,
+(d) issue any securities,
+(e) grant loans to, or provide guarantees or other securities to benefit other persons, secure its obligations, or assist those persons, and
+(f) create branch offices, subsidiaries, or other offices.
+(3) The company may take any measures, make any transactions, or conduct any operations that the manager thinks fit to achieve the company’s purpose in accordance with the law on specialised investment funds.
+
+Section 3 – Capital, funds, classes
+Capital
+7  – Minimum capital
+(1) The company's minimum capital is determined under the law on specialised investment funds.
+(2) It must be reached by the date prescribed by law.
+8  – Capital is variable 
+(1) The capital of the company is variable.
+(2) It equals the net assets of the company calculated in accordance with the articles.
+Funds
+9  – Company consists of funds
+The company is a single legal entity, but it is made of one or more funds in accordance with Article 71 of the law on specialised investment funds.
+10  – Funds are segregated
+(1) Each fund has its own assets and liabilities and is treated as a separate entity.
+(2) A fund’s assets and liabilities are segregated from other funds' assets and liabilities.
+(3) In accordance with Article 71(5) of the law on specialised investment funds—
+(a) a shareholder in a fund, or 
+(b) a creditor whose claim or indemnity has arisen in connection with the formation, operation, liquidation, or other reorganisation of a fund
+will have recourse only to the assets of that fund to satisfy any claim or indemnity against or regarding that fund and will have no recourse to the assets of any other fund.
+11  – Power to create funds
+(1) Subject to the articles, the company may create as many funds as the manager thinks fit. 
+(2) For each fund, the manager will specify in the prospectus—
+(a) its duration,
+(b) its investment objective,
+(c) its investment policy and strategy, and
+(d) such other features as it thinks fit for that fund.
+(3) Subject to the prospectus, the manager may extend a fund’s duration on one or more occasions before the expiry of that fund’s duration or extension. The company shall notify the shareholders affected by any such extension.
+12  – Funds may cross-invest
+Subject to applicable law, the company may invest the assets of a fund, or part of them, in one or more other funds.
+13  – Fund assets may be pooled and co-managed
+Subject to applicable law, the company may pool and manage the assets of a fund, or part of them, with the assets, or part of the assets of— 
+(a) another fund of the company,
+(b) another Luxembourg collective investment undertaking, or 
+(c) a fund of another Luxembourg collective investment undertaking.
+
+Section 4 – Shares 
+Characteristics
+14  – Nature of a share
+(1) A share represents a portion of the company’s capital ownership.
+(2) Subject to applicable law, a share carries the rights and obligations specified in the articles and the prospectus.
+15  – Value of shares
+(1) Shares have no par value.
+(2) Their value is variable by operation of law and is determined in accordance with the articles.
+16  – Form of shares
+(1) Shares are in registered, uncertificated form only.
+(2) Subject to applicable law and the articles, the company may take steps as the manager thinks fit regarding—
+(a) the evidencing of and transfer of title to shares, including in connection with their issuance, and
+(b) any records relating to the holding of shares.
+17  – Fractional shares
+(1) The company may issue fractional shares.
+(2) Subject to the law on commercial companies, a fractional share has the same rights as a whole share.
+18  – Classes
+(1) The company issues two classes of shares—
+(a) general partner shares, and
+(b) investor shares.
+(2) Each class is subject to different rights, obligations, and other terms under the articles and the prospectus.
+(3) The company may divide each class of investor shares into one or more sub-classes on such terms as the manager thinks fit, such as—
+(a) their voting rights,
+(b) their investor type,
+(c) their denomination and valuation currency,
+(d) their valuation frequency,
+(e) the terms of their subscription, redemption, conversion, or transfer, including minimum holding or investment amounts, notice or settlement periods, or dealing limitations,
+(f) their applicable fees, and charges for their subscription, redemption, conversion, or transfer,
+(g) their obligations for capital contributions,
+(h) the allocation and distribution policy of income or gains,
+(i) their taxation or reporting obligations, which may vary by jurisdiction or investor status, or
+(j) their currency hedging policies. 
+(4) The company may also create such sub-class or series that—
+(a) track the performance of one or more specific assets of the fund they belong to, or
+(b) comprise assets not invested in common with that fund's assets.
+(5) Each such sub-class or series will be treated as a class for purposes of the law on commercial companies, the prospectus, and the articles.
+
+Issue of shares
+19  – Powers to issue shares
+(1) Subject to applicable law and the articles, the company shall issue in each fund—
+(a) one general partner share, and 
+(b) an unlimited number of investor shares in any class.
+(2) The company shall not issue general partner shares to persons other than the general partner.
+(3) The company shall not issue investor shares to persons other than eligible investors in accordance with the prospectus and the articles.
+20  – Powers to determine terms of shares
+Subject to the articles, the manager will specify the terms that apply to each class of investor shares in the prospectus.
+
+Share registration and ownership
+21  – Share register
+(1) The company shall keep a share register at its registered office.
+(2) The share register must contain all information required by law.
+(3) A shareholder shall promptly notify the company if the information in the share register, for that shareholder, is inaccurate or incomplete.
+(4) A shareholder must be recorded in the share register to be treated as an owner of shares. 
+
+Operations relating to shares
+22  – Company’s lien
+(1) The company has a lien over every share that is not paid or partly paid for any part of that share price that has not been paid to the company and is payable immediately or in the future.
+(2) The company’s lien over a share—
+(a) takes priority over any third party’s interest in that share, and
+(b) extends to any dividend or other money payable by the company regarding that share and (if the lien is enforced and the company sells the share) the sale proceeds of that share. 
+(3) The company may decide that a share which is or would otherwise be subject to the company’s lien will not be subject to it, wholly or partly.
+23  – Other liens, pledges and other security interests
+Creating a pledge or other security interest on a share requires the company’s approval.
+24  – Shares or rights owned or claimed by more than one person
+(1) The company will not be affected by, or recognise, any interest in a share other than the holder’s sole and absolute right to all of that share and all the rights attaching to it.
+(2) If a share or a right attaching to it is owned or claimed by more than one person, a representative must be appointed to represent all those persons in their dealings with the company.
+(3) Until a representative is appointed, the company may suspend the exercise of all rights attaching to that share, except for information rights.
+(4) If a share is registered in the name of more than one person and no representative is appointed, the company may recognise the first holder registered as the representative for all holders.
+
+Subscriptions
+25  – Shares may be subscribed
+(1) Subject to the articles and applicable law, any eligible investor may subscribe for shares in accordance with the terms of the prospectus.
+(2) The general partner shall subscribe to only one general partner share in each fund.
+(3) Subject to the terms of the prospectus or those notified by or on behalf of the company, any person who qualifies as an eligible investor may subscribe to investor shares.
+(4) For purposes of paragraph (1), the prospectus will specify—
+(a) at which times shares can be subscribed,
+(b) whether investors can subscribe for—
+(i) fully paid-up shares, 
+(ii) party paid-up shares, or 
+(iii) partly in one way and partly in the other.
+(5) If investors subscribe for partly paid-up shares, at least five per cent of the subscribed amount must be paid up in accordance with Article ‎30(1).
+26  – Minimum and maximum subscriptions 
+The company may specify in the prospectus—
+(a) the minimum and maximum amount that a person may subscribe in each fund or class, and
+(b) the aggregate minimum and maximum amount that may be subscribed in each fund or class.
+27  – Making an application to subscribe 
+(7) Any investor who wants to subscribe for shares shall—
+(a) sign a subscription agreement and deliver it to the company regarding each such subscription, and
+(b) disclose such information, provide such documents, or make such statements as the company thinks fit to determine that such person—
+(i) is not a restricted person, and
+(ii) is able to comply with their obligations under applicable law and the articles.
+28  – Subscriptions not complying with class terms 
+(8) If an investor who subscribes for shares in a class does not comply with the terms for that class, the company may, subject to the prospectus—
+(a) disapply the class terms for that investor,
+(b) convert that investor’s subscription into a class with different terms where the investor complies with the terms for that class, or 
+(c) reject that investor’s subscription.
+29  – Accepting or rejecting subscriptions
+(1) Subject to paragraph (2), the company may accept or reject a subscription, or part of it, and subject it to the terms of the prospectus.
+(2) The company shall reject a subscription from a restricted person. 
+30  – Methods of paying for subscriptions
+(1) Subject to the terms of the prospectus or those notified by or on behalf of the company, an investor shall pay for investor shares—
+(a) in cash,
+(a) by way of a contribution of assets other than cash, or
+(b) partly in one way and partly in the other
+(2) A subscription by way of a contribution of assets other than cash is subject to—
+(a) the company consenting to the contribution in writing, and
+(b) if the law on commercial companies requires it, an independent auditor’s report on the value of the contributed assets.
+(3) The company shall not consent to the contribution unless—
+(a) the contributed assets comply with the investment objectives and policies of the fund,
+(b) the contribution is in the interest of the fund and its investors.
+(4) The investor shall bear the costs related to the contribution unless the company notifies that investor that the company will do so.
+31  – Subscription price
+(1) The subscription price for the shares is—
+(a) during the initial subscription period, the issue price specified in the prospectus, or 
+(b) after the initial subscription period, the share price calculated in accordance with the articles.
+(2) With respect to the subscription price, the company may do one or more of the following in accordance with the terms of the prospectus—
+(a) add to it any fees and other charges,
+(b) adjust it—
+(i) to compensate for dilutions due to large flows of cash into a fund, or
+(ii) to place all investors in a substantially similar economic position as if they had all invested at the same time
+(c) round it up or down mathematically to the nearest fractional unit of the class currency, or
+(d) decide that balances of less than a reasonable amount resulting from the subscription will be forfeited.
+32  – Subscriptions may be suspended
+The company may suspend subscriptions if—
+(a) those subscriptions would harm the interest of the fund, its shareholders, or its business,
+(b) it has suspended the calculation of the net asset value for shares to be subscribed, or
+(c) the laws that apply to the company require or permit it.
+33  – Subscriptions are irrevocable
+An investor shall not cancel their subscription order unless—
+(a) the company has suspended the calculation of the net asset value for those shares, or
+(b) the company permits it.
+
+Redemptions
+34  – Shares may be redeemed
+(1) Subject to the articles and applicable law, the company may issue shares which are to be redeemed, or are required to be redeemed, at the company's or their holder's option in accordance with the terms of the prospectus.
+(2) For purposes of paragraph (1), the prospectus will specify—
+(a) at which times shares are to be redeemed, and
+(b) whether shares can be redeemed for—
+(i) a cash amount, 
+(ii) a number of shares, or 
+(iii) partly in one way and partly in the other.
+35  – Redemptions at an investor’s option
+(1) An investor shall not redeem shares unless the prospectus permits it.
+(2) If the prospectus permits redemptions at an investor’s option, the company shall specify—
+(a) the terms and manner for redeeming shares, and
+(b) the fees and expenses, and other charges that apply to redemptions.
+36  – Redemptions at the company’s option 
+The company may redeem shares—
+(a) to remove an investor who is regarded as a restricted person,
+(b) to facilitate distributions to investors,
+(c) to adjust investors’ capital contributions when additional investors are admitted to the company, 
+(d) to give effect to the liquidation, a merger or other reorganisation of the company or a fund or a class, or
+(e) if the laws that apply to the company require or permit it.
+37  – Accepting or rejecting redemptions 
+The company may accept or reject a redemption order, or part of it, and subject it to the terms of the prospectus.
+38  – Paying for redemptions
+(1) The company shall pay for shares redeemed in accordance with the terms of the prospectus or those notified by or on behalf of the company.
+(2) But the company may defer the payment of redemption proceeds in cash until sufficient cash is available to the company regarding that payment.
+39  – Redemption price
+(1) The redemption price for shares is — 
+(a) their net asset value,
+(b) if no net asset value has been calculated, their issue price, or 
+(c) such other price as the company determines in accordance with the prospectus and the articles.
+(2) In relation to the redemption price, the company may do one or more of the following subject to the terms of the prospectus—
+(a) deduct from it any fees and other charges,
+(b) adjust it to compensate for dilutions due to large flows of cash out of a fund, or
+(c) round it up or down to the nearest fractional unit of the class currency.
+40  – Method for paying for redemptions
+(1) Subject to the prospectus, the company shall pay for shares redeemed—
+(a) in cash, 
+(b) by way of a distribution of assets other than cash, or 
+(c) partly in one way and partly in the other.
+(2) A redemption by way of a distribution of assets other than cash is subject to—
+(a) if the redeeming investor requests the distribution, the manager’s consent in writing, or
+(b) if the company requests the distribution, the redeeming investor’s consent in writing,
+(c) if the law on commercial companies requires it, an independent auditor’s report on the value of the distributed assets, and
+(d) such other terms as specified in the prospectus.
+(3) The company shall determine the assets to be distributed fairly, considering the interests of the other investors in the fund.
+(4) The redeeming investor or, if the manager requested the redemption or otherwise thinks it fit, the company shall bear the costs related to the redemption in assets other than cash.
+41  – Redemptions below minimum
+If, because of redemption, an investor holds shares for a value that is less than the minimum amount specified for that class in the prospectus, the company may, subject to the prospectus—
+(a) disapply the minimum amount for that investor,
+(b) convert that investor’s outstanding shares into a class with a lower minimum amount where the investor complies with the terms for that class, or 
+(c) redeem all that investor’s shares in the class redeemed.
+42  – Redemptions not complying with class terms
+If, because of redemption, an investor does not comply with the terms for that class, the company may, subject to the prospectus —
+(a) disapply the class terms for that investor, 
+(b) convert the outstanding shares of that investor into a class with different terms where the shares comply with the terms for that class, or 
+(c) redeem all that investor’s shares in that class.
+43  – Redemptions may be suspended
+The company may suspend redemptions if—
+(a) those redemptions would harm the interest of the fund, its shareholders, or its business,
+(b) it has suspended the calculation of the net asset value for shares to be redeemed, or
+(c) the laws that apply to the company require or permit it.
+44  – No withdrawal
+The estate, administrator or trustee in bankruptcy, receiver, or liquidator of a deceased, bankrupt, insolvent, or dissolved investor may not redeem that investor’s interest except as otherwise provided under applicable law, or in the prospectus or the articles.
+45  – No collateral
+No redeemed or removed shareholder will be entitled to any collateral as security for any amount it is entitled to. 
+46  – No further claims
+Except for a claim to receive payment under article ‎38(1), no shareholder redeemed or removed will have any further claims against the company or any other shareholder in connection with that shareholder’s redemption or removal from the company.
+47  – Shares redeemed are cancelled
+All shares redeemed will be cancelled.
+
+Conversions
+48  – Shares may be converted
+Subject to the articles and applicable law, shares may be converted at the company's or their holder's option in accordance with the terms of the prospectus. 
+49  – Conversions at an investor’s option
+(1) An investor shall not convert shares unless the prospectus permits it.
+(2) If the prospectus permits conversions at an investor’s option, the company shall specify—
+(a) the terms and manner for converting shares, and
+(b) the fees and expenses, and other charges that apply to conversions.
+50  – Conversions at the company’s option
+(1) The company may convert shares—
+(a) to remove a defaulting investor from a fund,
+(b) to make distributions to investors,
+(c) to give effect to the liquidation, a merger or other reorganisation of the company or a fund, or
+(d) if the laws that apply to the company require or permit it.
+51  – Accepting or rejecting conversions
+(1) The company may accept or reject a conversion order, or part of it, and subject it to the terms of the prospectus.
+(2) But, subject to this agreement, it shall reject a conversion order if, at the time of the conversion, the shares to be converted from and to may not be redeemed or subscribed.
+(3) Paragraph (2) will not apply if the shares to be converted have been redeemed and it is no longer possible to issue the shares to be converted.
+52  – Method of converting shares
+(1) A conversion order is treated as simultaneous orders—
+(a) to redeem shares to be converted from, and
+(b) to subscribe shares to be converted to.
+(2) Shares are converted—
+(a) on the same valuation day, or
+(b) if this is not possible—
+(i) on the next valuation day for the shares to be subscribed, or 
+(ii) on any other day the company thinks fit.
+53  – Conversion price
+(1) Subject to the prospectus, shares are converted—
+(a) at the redemption price for the redemption order, and 
+(b) at the subscription price for the subscription order, 
+as determined in accordance with the articles. 
+(2) In relation to share prices, the company may do one or more of the following subject to the terms of the prospectus—
+(a) add to it or deduct from it any fees and other charges,
+(b) adjust it to compensate for dilutions due to large flows of cash in or out of a fund, 
+(c) round it up or down to the nearest fractional unit of the class currency, or
+(d) decide that balances of less than a reasonable amount resulting from the conversion will not be paid out to the investor.
+54  – Conversions not complying with class terms 
+If, because of conversion, an investor does not comply with the terms for the class in the prospectus, the company may, subject to the prospectus—
+(a) disapply the class terms for that investor, 
+(b) convert that investor’s shares in the class into a class with different terms where the investor complies with the terms for that class, or 
+(c) redeem all that investor’s shares in the class converted from.
+55  – Conversions may be suspended
+The company may suspend conversions if—
+(a) those conversions would harm the interest of the fund, its shareholders, or its business,
+(b) the company has suspended the calculation of the net asset value for shares to be converted, or
+(c) the laws that apply to the company require or permit it.
+56  – Conversions may be delayed
+(1) If, on any valuation day, conversion orders exceed the portion of the shares in a fund or class specified in the prospectus, the company may—
+(a) reduce in proportion those conversion requests down to the limit specified in the prospectus, or part of them, and 
+(b) delay the part of conversions not processed for a period and in a manner specified in the prospectus. 
+(2) Subject to this article, the portion of conversion orders so delayed will then be redeemed in priority to later orders.
+57  – Conversions are irrevocable
+An investor shall not cancel their conversion order unless—
+(a) the company has suspended calculating the net asset value for those shares, or
+(b) the company permits it.
+58  – Shares redeemed are cancelled
+All shares converted from the class redeemed will be cancelled.
+
+Transfers
+59  – Shares may be transferred
+(1) Subject to the articles and applicable law, shares may be transferred at the company's or their holder's option in accordance with the terms of the prospectus. 
+(2) In this article, ‘transfer’ means sell, assign, transmit, dispose of, pledge, hypothecate, encumber, grant a right of ownership, or allow a restriction on the right of ownership.
+60  – Transfers at an investor’s option
+If an investor wants to transfer one or more shares to anyone else, they shall—
+(a) notify the company not less than 30 days before the proposed transfer, and
+(b) disclose such information, provide such documents, or make such statements in relation to the proposed transfer and transferee as the manager thinks fit to determine that the proposed transferee is not a restricted person.
+61  – Transfers at the company’s option
+(1) The company may transfer shares—
+(a) to remove a defaulting investor from the company,
+(b) if the laws that apply to the company require or permit it.
+62  – Accepting or rejecting a transfer 
+(1) Subject to paragraph (2), the company may accept or reject a transfer, or part of it and subject it to the terms of the prospectus.
+(2)  The company shall reject a transfer if the transferee is a restricted person.
+63  – Validity of transfers
+Any transfer of shares becomes effective towards the company and non-parties when the company has accepted the transfer.
+
+Section 5 – Shareholders
+Number, capacity, liability
+64  – Number of shareholders
+(1) The company may have one or several shareholders.
+(2) But it must have at least one general partner and at least one investor.
+65  – Capacity
+(1) Any person capable of holding shares, who is an eligible investor and is permitted by law or the company to be so may become an investor.
+(2) The company will not be affected by the death, loss or suspension of civil rights, dissolution, bankruptcy or insolvency, or another similar event or circumstance relating to one or more shareholders.
+66  – Ownership restrictions
+(1) The company may restrict or prevent ownership of shares by or on behalf of any restricted person in accordance with the articles.
+(2) For purposes of paragraph (1), the company may require any person by or on behalf of whom shares are or are to be registered to disclose any information the manager thinks fit to assess if that person is a restricted person.
+(3) If the manager learns or suspects that one or more shares are held or are to be held by or on behalf of a restricted person, or if a person does not disclose the requested information in accordance with paragraph (2), it shall do any one or more of the following in relation to those shares or their actual or purported holder—
+(a) reject the subscription or transfer of those shares,
+(b) refuse to issue or register those shares,
+(c) suspend the exercise of all rights attaching to that share, except for the right to information, 
+(d) withhold any dividend or other proceeds owed on those shares,
+(e) request their holder to transfer those shares or rights relating to those shares to a non-restricted person,
+(f) compulsorily redeem those shares,
+(g) apply a penalty fee on their subscription, redemption, or transfer
+in accordance with the articles and the prospectus.
+(4) For purposes of paragraph (3), the manager’s decision will not be void if the manager incorrectly determined those shares are or are to be owned by or on behalf of a restricted person.
+67  – General partner’s liability
+(1) Subject to applicable law and the articles, the general partner is liable to the company for—
+(a) the liabilities that exceed the company’s assets, and
+(a) the liabilities that it incurs in its own capacity.
+(2) The general partner will not be liable to investors for the return of the amount they subscribed for shares. 
+(3) If any of the following is true—
+(a) there is more than one general partner, or
+(b) one or more investors incur unlimited liability under the articles or the law on commercial companies,
+then all such persons will be jointly and severally liable to the company.
+68  – Investors’ liability
+(1) Subject to paragraph (5) and applicable law, an investor is not liable to the company other than the amount unpaid on the shares held by them.
+(2) An investor shall not engage in the management of the company’s business or act on behalf of the company other than—
+(a) exercising their rights as shareholders in general meetings,
+(b) advising or assisting the company, its manager, or any of their affiliates or representatives,
+(c) controlling or overseeing the company’s business,
+(d) granting any loan, providing any guarantee, or other security or any other form of assistance to the company or its affiliates, or
+(e) permitting the manager to act beyond its powers.
+(3) The manager may appoint one or more investors to act as the company’s representatives for managing the company’s business. 
+(4) An investor appointed in accordance with paragraph (6) will incur no unlimited, joint and several liability with the general partner in relation to that conduct of management on the condition that the shareholder has disclosed that it acted as the company’s representative in connection with that conduct.
+(5) Except as provided in paragraph (4), an investor in breach of paragraph (2) will be jointly and severally liable on an unlimited basis with the general partner for that breach.
+
+Rights and obligations
+69  – Right to profits and losses
+Subject to the articles and the prospectus, each share gives the right to share in the company's profits and losses.
+70  – Right to income and proceeds
+A shareholder is entitled to receive the income on those shares, the share price on their redemption, and a portion of the liquidation proceeds as specified in the articles and the prospectus.
+71  – No pre-emption and preferential subscription rights 
+No shareholder has a preferential subscription right on new or existing shares.
+72  – Convening, preparing, attending, and participating at general meetings 
+(1) Subject to the articles, each shareholder may attend general meetings, be consulted, and participate in discussions.
+(2) One or more shareholders representing at least 10 per cent of the share capital may request a general meeting by notifying the company by registered post and including the agenda of the meeting, which must be held within one month.
+(3) One or more shareholders representing at least 10 per cent of the share capital may add one or more items to the agenda of a general meeting by notifying the company by registered post no later than five days before the date the general meeting is scheduled.
+73  – Voting, and suspension and waiver of voting rights
+(1) Subject to the articles and the law on commercial companies, each share gives the right to one vote at general meetings.
+(2) The company may suspend the voting rights of any shareholder in breach of their obligations under the articles or any arrangement made by that shareholder.
+(3) A shareholder may waive to exercise their voting rights, or part of them, temporarily or permanently. The company and the waiving shareholder are bound by such waiver once notified to the company.
+(4) A shareholder who is not eligible to vote or whose voting rights are suspended or waived in accordance with this article may attend any general meeting and may be consulted, but their shares are not to be counted as participating at that general meeting, or part of that general meeting, for quorum or voting purposes.
+74  – Challenging decisions
+A shareholder may challenge decisions if they believe they breach the articles or the law on commercial companies.
+75  – Accessing company records
+(1) A shareholder may inspect the share register at the registered office during business hours. Subject to the law on commercial companies, they may also inspect or receive a copy of the other company records.
+(2) The company shall provide the financial statements of the company to each shareholder in the six months of the financial year-end. 
+76  – Asking questions
+(1) If one or more shareholders, who together hold at least 10 per cent of the share capital or the voting rights of the company, ask questions in writing to the manager about transactions relating to the management of the company, or the affiliates of the company, the manager shall respond to those shareholders no later than one month after the request.
+(2) When responding about transactions related to the company's affiliates, the manager shall consider the corporate interest of those entities.
+(3) If the manager does not respond in the month of the request, at those shareholders’ request, the president of the chamber of the district court of Luxembourg dealing with commercial matters may appoint in summary proceedings one or more experts to report on those transactions.
+77  – Equal treatment
+The company shall treat all shareholders in the same situation in the same way. 
+
+Decision-making by shareholders 
+78  – Shareholders’ powers
+Shareholders may exercise all the rights given to them under the articles and applicable law to adopt or ratify any conduct in connection with the company's business.
+79  – How shareholders make decisions
+(1) Shareholders make decisions in general meetings.
+(2) Decisions made in general meetings bind all the shareholders.
+80  – Holding general meetings
+(1) Subject to paragraph (2), general meetings may be held in Luxembourg or abroad.
+(2) One general meeting must be held in Luxembourg every year.
+81  – Calling a general meeting
+(1) The manager or the auditors may call a general meeting.
+(2) A general meeting must be called under these circumstances—
+(a) so it is held no later than—
+(i) six months from the financial year-end,
+(ii) one month from the date on which one or more shareholders representing 10 per cent or more of the company’s capital request it in writing, along with its proposed agenda, 
+(iii) 40 days from the date on which the manager learns that the capital is below the minimum capital of the company,
+(b) if the manager or an auditor withdraws, and
+(c) when the laws that apply to the company or its interest require it.
+(3) Subject to paragraph (6), a general meeting is called by giving notice to all the shareholders.
+(4) Notice of any general meeting must specify—
+(a) its proposed date and time,
+(b) where it is to take place, 
+(c) the proposed business to be discussed at the general meeting,
+(d) if it is anticipated that shareholders participating at the general meeting will not be in the same place, how it is proposed that they should communicate with each other, and 
+(e) any other condition that shareholders must fulfil to participate at the general meeting.
+(5) Subject to the articles and the law on commercial companies, notice of a general meeting must be given to each shareholder no later than eight days before the date on which the general meeting is scheduled—
+(a) by registered post, or
+(b) subject to that shareholder’s written approval, through electronic means.
+(6) A general meeting for which notice has not been given in accordance with paragraph (3) is valid if all the shareholders—
+(a) are participating at the general meeting, and
+(b) waive the notice requirements for that general meeting.
+82  – Participating at general meetings 
+(1) A shareholder may participate at a general meeting—
+(a) by attending in person or through electronic means that allow for their identification, or
+(b) by appointing another person as their representative in writing.
+(2) Participating at a general meeting electronically is equivalent to participating in person.
+(3) A person may represent one or more shareholders.
+(4) In determining whether shareholders are participating at a general meeting, it is irrelevant where they are or how they communicate, but all the participants must be able to communicate effectively and in real time with each other.
+(5) For a general meeting to be held at the company’s registered office, at least one shareholder or their representative must be present at the company’s registered office.
+83  – Constituting a bureau
+(1) The manager shall chair general meetings.
+(2) Before considering any proposal, the general meeting shall elect a scrutineer, and the chair shall appoint a secretary for the general meeting.
+(3) The scrutineer and the secretary are not required to be shareholders.
+(4) Together, the chair, the scrutineer, and the secretary constitute the bureau of the general meeting.
+84  – Record date
+(1) The type and number of shares held by a shareholder on the record date determine that shareholder’s rights to participate at a general meeting and exercise voting rights attaching to their shares.
+(2) The number of shares outstanding on the record date for a general meeting determines the quorum at that general meeting.
+85  – Voting at general meetings
+(1) No decision may be made at a general meeting on matters not specified in the agenda, except for—
+(a) calling another general meeting, or
+(b) appointing an auditor when required by law.
+(2) Except as provided in paragraphs (3) and (5) and the law on commercial companies, decisions at general meetings are passed by ordinary resolutions.
+(3) If the company proposes to—
+(a) amend the articles,
+(b) appoint or remove a general partner,
+(c) appoint or remove a manager, or
+(d) address other matters requiring a special resolution,
+decisions at general meetings must be passed by special resolutions.
+(4) For purposes of paragraph (3)(b), the general partner shares and investor shares owned by the general partner or its affiliates are not to be counted as participating in that meeting, or part of it, for quorum or voting purposes.
+(5) If no quorum is reached at a general meeting deciding by special resolutions, the company may reconvene the shareholders in accordance with the law on commercial companies. The second general meeting may pass resolutions by at least two-thirds of the votes cast without requiring a quorum.
+86  – Holding ballots
+(1) Shareholders may vote by ballot at any general meeting.
+(2) Shareholders may only use the ballots provided by the company.
+(3) The ballots must specify—
+(a) the name (and surname as applicable) and address of the shareholder,
+(b) the number of shares for which the shareholder exercises their right,
+(c) the place, date, and time of the general meeting,
+(d) the proposed business to be discussed at the general meeting,
+(e) the proposed resolutions submitted to the shareholders, and
+(f) for each proposal, three boxes allowing the shareholder to vote in favour or against the proposal, or abstain from voting, by ticking the appropriate box.
+(4) The company shall consider only ballots received before the general meeting to which they relate.
+87  – Abstentions and nil votes
+Polls or ballots which, for a proposed resolution, do not show a vote in favour or against, or an abstention on the proposed resolution will be void regarding that resolution.
+88  – Minutes of general meetings 
+(1) The minutes of general meetings must be signed by the bureau members, along with the attendance list.
+(2) They may be signed by any shareholder entitled to vote who requests it.
+89  – Copies or excerpts of decisions
+The manager must sign copies or excerpts of minutes of general meetings.
+90  – Application of rules to fund or class meetings
+The provisions of the articles relating to general meetings apply, with any necessary modifications, to general meetings of any fund or class.
+
+Section 6 – Management
+Number, capacity, and liability
+91  – Number
+(1) The company is managed by one or more managers (gérants) appointed in accordance with the articles.
+(2) FinaStream GP is the company’s manager. 
+92  – Capacity as manager
+(1) Any legal or natural person willing to act as a manager and is permitted by law to do so may be appointed to be a manager by special resolutions.
+(2) A manager is not required to be a shareholder.
+(3) A manager who is a legal person is not required to appoint a natural person in its representation.
+93  – Manager’s liability
+A manager who is not a general partner is liable in accordance with the law on commercial companies.
+
+Manager’s powers and duties
+94  – Manager’s general powers
+Except as provided in the articles or under applicable law, a manager is responsible for managing the company’s business, for which purpose it may exercise all the company's powers.
+95  – Manager may determine conduct of company business
+(2) Subject to the articles and applicable law, the manager shall determine—
+(a) the investment objectives and policies applicable to the company and each fund, and 
+(b) the conduct of the company’s business, in accordance with the principle of risk spreading.
+(3) The manager shall also specify any restrictions applicable to the company’s investments in accordance with applicable law. 
+96  – Manager may appoint service providers and agents
+(1) Subject to the articles and applicable law, the manager shall appoint such service providers or agents as it thinks fit, but they must appoint in writing—
+(a) an external alternative investment fund manager, and
+(b) a depositary
+in accordance with the law on specialised investment funds and the law on alternative investment fund managers.
+(2) The company shall entrust the alternative investment fund manager with the portfolio management and risk management obligations, and such other obligations (including valuation, administration, or marketing) for the company as they may agree in writing.
+(3) The alternative investment fund manager must be located—
+(a) in Luxembourg, or
+(b) in another Member State of the European Union, or 
+(c) in any third country authorised under Directive 2011/61/EU on alternative investment fund managers.
+(4) The company shall entrust the depositary with the safekeeping of its assets and such other obligations for the company as they may agree in writing.
+97  – Manager may delegate
+(1) Subject to the articles and the law on commercial companies, the manager may delegate any of its powers—
+(a) to such person or committee,
+(b) by such means,
+(c) to such an extent,
+(d) in relation to such matters, and
+(e) on such terms,
+as it thinks fit.
+(2) If the manager so specifies, any such delegation may permit further delegation of those powers by any person to whom they are delegated.
+(3) The manager may revoke any delegation, or part of it, or modify its terms.
+(4) Committees to which the manager delegates shall follow the rules applicable to the decision-making by the company.
+(5) The manager may make rules of procedure for all or any committees, which prevail over rules derived from the articles if they are inconsistent with them.
+98  – Dealing with non-parties
+The company is bound towards third parties—
+(a) by the signature of the manager, or 
+(b) by the signature of anyone to whom the manager has delegated its powers under the terms of that delegation.
+99  – Manager’s fees
+(1) The manager may receive fees for its services as manager under the terms specified in the prospectus.
+(2) Any fees paid in accordance with this article are distinct from salary or any other remuneration payable to the manager.
+100  – Manager’s expenses
+The manager may also receive payments to cover reasonable expenses the manager’s representatives incur in conducting the company’s business (such as travelling to, securing accommodation for, attending, and returning from company business or manager’s meetings on behalf of the company).
+
+Decision-making by manager
+101  – Methods of making decisions 
+The manager may make decisions in written resolutions.
+102  – Copies or excerpts of decisions
+The manager must sign copies or excerpts of its decisions.
+103  – Conflict of interests
+(1) If a manager’s decision concerns a transaction or arrangement where a manager of the manager has a direct or indirect financial interest which conflicts with the company’s interest, that manager is not to be counted as participating in that meeting or part of it for quorum or voting purposes.
+(2) A manager with a conflicting interest in accordance with this article is to be counted as participating in the manager’s decision for quorum and voting purposes if—
+(a) the company by ordinary resolution disapplies paragraph (1),
+(b) the manager’s interest cannot reasonably be regarded as likely to give rise to a conflict of interest, or
+(c) the manager’s conflict of interest relates to day-to-day business entered at arms’ length.
+(3) A manager with a conflicting interest in accordance with this article must—
+(a) inform the other managers of that conflict, and 
+(b) have their statement recorded in the meeting minutes.
+(4) The manager shall report any such conflicting interest to the next general meeting before any matter is submitted to vote.
+(5) If there is no quorum because of the conflicting interest, the manager may refer the matter to the general meeting.
+104  – Manager’s liability
+(1) The manager is liable to the company for the liabilities that exceed the company’s assets.
+(2) But it will not be liable to investors for the return of the amount they subscribed for shares. 
+(3) If there is more than one manager, they are jointly and severally liable.
+105  – Indemnity
+(1) Subject to paragraph (2), with respect to any proceeding brought against one or more indemnitees in connection with their rights or obligations on behalf of the company, the company shall defend those indemnitees from, and indemnify them against, all indemnifiable losses arising out of that proceeding.
+(2) This article does not—
+(a) permit any indemnity—
+(i) where the indemnitee recklessly or intentionally caused the circumstances giving rise to those indemnifiable losses, or 
+(ii) which would be otherwise prohibited or rendered void by law, or
+(b) exclude other rights to which an indemnitee may be entitled.
+(3) In this article—
+(a) an ‘indemnitee’ means any current or former manager or other representative of the company or its affiliates, and the representatives of any of them,
+(b) ‘indemnifiable losses’ mean the sum of losses and litigation expenses,
+(c) ‘litigation expenses’ mean any out-of-pocket expense incurred in defending a proceeding or in any related investigation or negotiation, including court filing fees, court costs, arbitration fees, witness fees, and attorneys’ and other professionals’ fees and disbursements,
+(d) a ‘loss’ means any amount awarded in, or paid in settlement of, any proceeding, including any interest but excluding any litigation expenses, and
+(e) a ‘proceeding’ means any judicial, administrative, arbitration or mediation action, suit, claim, investigation, or proceeding.
+106  – Insurance
+The company may purchase and maintain insurance at its own expense for the benefit of any relevant person in respect of any relevant loss.
+(2) In this article—
+(a) a ‘relevant person’ means any current or former director of the manager, or officer or committee member of the manager or the company, and 
+(b) a ‘relevant loss’ means any loss or liability that has been or may be incurred by a relevant person in connection with that relevant person’s rights or obligations on behalf of the company.
+
+Section 7 – Audit
+107  – Auditor
+(1) The company shall, by ordinary resolution—
+(a) appoint one or more auditors, and
+(b) determine the auditors’ fees and their term of office
+in accordance with the law on commercial companies and the law on specialised investment funds.
+(2) The auditors have an unlimited right of permanent oversight and control of the accounts and other records of the company and its operations under the law on specialised investment funds.
+(3) The company may remove any auditor without cause or notice by ordinary resolution.
+
+Section 8 – Net asset value
+Net asset value calculation
+108  – Company calculates a net asset value
+(1) The company will determine the net asset value for each fund and class on each valuation day.
+(2) The net asset value is expressed in the fund or class currency.
+(3) For each class, a net asset value per share is calculated by dividing the net assets minus liabilities of the fund attributable to that class by the number of shares outstanding.
+(4) The company may—
+(a) adjust the net asset value per share to account for dealing and other expenses as specified in the prospectus, and
+(b) may round it up mathematically to the nearest fractional unit of the class currency.
+(5) The net asset value of the company is the sum of the net assets of each fund or class, converted to the company's capital currency.
+(6) The company may delegate the net asset value calculation to one or more agents under the manager’s responsibility.
+Calculation rules
+109  – Assets of the company
+Composition of assets
+(1) The assets of the company comprise—
+(a) all cash, whether in hand, receivable, or on deposit, including accrued interest,
+(b) all bills and notes payable on demand and any amounts due, including proceeds from securities sold but not yet collected,
+(c) all shares, bonds, debentures, options or subscription rights, futures contracts, warrants, money market instruments, and other securities and investments,
+(d) all dividends and distributions owed to the company, in-cash or in-kind, to the extent known to the company (with possible adjustments for market value fluctuations due to trading practices such as ex-dividends or ex-rights),
+(e) all accrued interest on any securities unless the interest is included in the principal, 
+(f) the formation expenses of the company that have not been written off, and
+(g) all other assets, including prepaid expenses.
+Asset valuation
+(2) Subject to paragraph (5), the value of the company’s assets is determined in accordance with policies established by or on behalf of the manager as follows—
+(a) listed securities: securities that are listed or quoted on one or more regulated markets are valued at their last price on the valuation day on their primary market; if no prices were quoted on the valuation day and they are subject to bid/ask prices, they are valued at their mid-price on the valuation day on their primary market,
+(b) unlisted options and futures contracts: options and futures contracts that are not listed or quoted on a regulated market will be valued at their net liquidating value based on a consistent methodology for each type of contract or, if so listed or quoted, but whose price is not representative of its fair value, or any forward contract will be valued at its net liquidating value determined on a basis consistently applied for each type of contract,
+(c) securities of collective investment undertakings that calculate a net asset value, at their latest official net asset value or, if more recent than the official net asset value, at their latest estimated net asset value (i.e., the net asset value which is not used for subscription and redemption or which may be provided by a pricing source other than the administrator of that collective investment undertaking),
+(d) securities that are not listed or quoted on a regulated market or, if so listed or quoted, whose price is unavailable or, if available, not representative of their fair value, at their fair value,
+(e) swap contracts, in accordance with generally accepted valuation rules (asset-based swap contracts, by reference to the market value of the underlying assets, and cash flow-based swap contracts, by reference to the net present value of the underlying future cash flows),
+(f) money market instruments, at their market value, or, if no market value is available, at their amortised cost or nominal value, plus accrued interest,
+(g) cash in hand or on deposit, bills, demand notes and accounts receivable, prepaid expenses, cash dividends and interest declared or accrued, and not yet received, at their full amount, unless unlikely to be received, in which case the value of these assets will be discounted to reflect their fair value, and
+(h) other assets, at their fair value.
+(3) The manager may determine valuation policies based on the principles set out in the articles in accordance with the law on alternative investment fund managers.
+(4) The company shall disclose those valuation policies to shareholders by any means the manager thinks fit. 
+(5) Subject to those valuation policies, the manager may adjust the value of one or more assets with prudence and in good faith if the value of those assets has changed since the date on which it was determined.
+(6) Save manifest error—
+(a) the net asset value is final and binding on the company and its investors.
+(b) the manager is not responsible for any loss incurred by the company or an investor because of any miscalculation of the net asset value.
+110 – Liabilities 
+(1) The liabilities of the company comprise—
+(a) all borrowings, bills, and other amounts due, including interest accrued on them,
+(b) all expenses accrued or payable,
+(c) all known liabilities accrued or payable, including the dividends declared but unpaid,
+(d) all provisions for taxes due on the valuation date and other provisions or reserves determined by the manager or required by law, including liquidation expenses and contingent liabilities, and
+(e) all other liabilities of the company,
+except liabilities represented by shares. 
+(2) When assessing those liabilities, the manager shall consider all expenses payable by the company, which include formation expenses, fees payable to its investment advisers or managers, accountants, depositary, domiciliary, registrar and transfer agents, any paying agent and permanent representatives in places of registration, any other representative of the company, fees for legal, consulting and auditing services, promotional, printing, reporting and publishing expenses (including the cost of advertising or preparing and printing of documents or registration statements), taxes or governmental charges, and all other operating expenses, including the cost of buying and selling assets, interest, bank charges and brokerage, postage, and telecommunications. 
+(3) The manager may—
+(a) calculate expenses of a regular or recurring nature on an estimated figure for yearly or other periods in advance, and 
+(b) accrue those expenses in equal proportions over that period.
+111 – Allocation of assets and liabilities
+The company shall allocate its assets and liabilities as follows—
+(a) subscription proceeds will be applied to the fund’s assets corresponding to the subscribed class,
+(b) assets and liabilities and income and expenditure applied to a fund will be attributed to the class or classes in that fund,
+(c) if an asset is derived from another asset, the derived asset will be attributed to the same class or classes as the assets from which it is derived; on each revaluation of that asset, the increase or decrease in value will be applied to the relevant class or classes,
+(d) if the company incurs a liability in relation to an asset attributed to one or more classes in a fund, that liability will be allocated to the class or classes to which such asset relates,
+(e) if an asset or a liability is not attributable to one or more specific classes, that asset or liability will be allocated to all the classes in proportion to their respective net asset values or as the manager thinks fit, but—
+(i) if the assets of several classes are held in one account or are co­managed as a segregated pool of assets, the right of each class will be allocated in proportion to the contribution of that class to the applicable account or pool, 
+(ii) that right will vary in accordance with the contributions and withdrawals made on behalf of the class, as described in the prospectus, and 
+(iii) all liabilities, irrespective of the class they are attributable to, will, unless otherwise agreed upon with the creditors, be binding upon the company,
+(f) the net asset value of a class will be reduced by the amount distributed to shareholders upon payment.
+112  – Other rules
+(1) In assessing the company’s assets and liabilities—
+(a) income and expenditure are treated as accruing daily,
+(b) shares to be issued are treated as outstanding from the valuation day of their issuance, and their price is treated as a company asset until received,
+(c) shares to be redeemed are treated as outstanding until the valuation day of their redemption, and their price is treated as a company liability until paid,
+(d) assets and liabilities expressed in a currency other than the fund’s or class’s reference currency are converted into that fund’s or class’s reference currency at the exchange rate which the manager thinks fit, considering any applicable premium or discount, or exchange costs,
+(e) if, on a valuation day, the company has contracted to—
+(i) acquire an asset, the asset’s cost is presented as a company liability and the asset’s value as a company asset, and 
+(ii) dispose of an asset, the asset’s proceeds are presented as a company asset, and the asset is not included in the company’s assets, 
+but if the manager does not know the exact value or nature of that asset’s cost or proceeds on the valuation day, then it will estimate its value.
+(2) The valuation rules under paragraph (1) do not affect the accounting or legal treatment of the company’s assets, liabilities, or shares.
+Suspension of net asset value
+113  – Suspending the net asset value calculation
+(1) Subject to paragraph (2), the company may suspend for any fund or class—
+(a) the calculation of the net asset value, or 
+(b) any subscription, redemption, or conversion order.
+(2) It may do so if any of the following is true—
+(a) it would not be reasonably practicable to—
+(i) dispose of investments under normal conditions,
+(ii) determine the value of any investment or other company asset, or
+(iii) calculate the net asset value of the company, a fund, or a class,
+(b) a general meeting has been called to decide on, or the shareholders have been notified of, the dissolution, merger or other reorganisation of the company, a fund or a class, or
+(c) the interest of the company, a fund or a class, or their investors requires it, or
+(d) the laws that apply to the company require or permit it.
+114  – Notice and effects of a suspension
+(1) The manager shall notify the persons affected or likely to be affected by a suspension by any means it thinks fit. 
+(2) Investors may withdraw their subscription, redemption, or conversion orders while the net asset value calculation is suspended by notifying the company in writing. This notice must be received before the suspension is lifted. 
+(3) Unless those subscription, redemption, or conversion orders are withdrawn in accordance with paragraph (2), they will be processed on the first valuation day after the suspension is lifted.
+(4) A suspension of the net asset value calculation in a fund or class will not affect the net asset value calculation or the subscription, redemption, and conversion of shares in funds or classes where it is not suspended.
+
+Section 9 – Finances
+115  – Financial year
+The company's financial year is the calendar year.
+116  – Currency
+For accounting purposes, the euro is the currency of the company’s capital.
+117  – Accounts 
+(1) The manager shall establish and oversee proper accounting rules for the company in accordance with applicable law.
+(2) At the end of each financial year and each time the law requires it, the manager shall prepare the financial statements in accordance with Luxembourg generally accepted accounting principles (GAAP), including the statement of assets and liabilities, the balance sheet and the profit and loss account.
+(3) The manager shall present the financial statements, the management report, and the audit report for the company to the shareholders for their approval in the six months of the financial year-end.
+(4) The accounting records must be kept at the company’s registered office.
+118  – Allocation of income
+Subject to the articles and the law on specialised investment funds, the company shall, upon the manager’s recommendation, decide by ordinary resolution how the company’s income regarding each class is allocated and used.
+119  – Declaring distributions
+(1) The company may declare dividends by ordinary resolution, and the manager may pay interim dividends whether or not income is available for distribution.
+(2) No dividend may be declared unless the manager has made a recommendation as to its amount. That dividend must not exceed the amount recommended by the manager.
+(3) No dividend may be declared or paid unless it follows shareholders’ respective rights under the articles and the prospectus.
+(4) Unless the decision to pay a dividend or the rights attached to shares specify otherwise, a dividend must be paid by reference to each shareholder entitled to it on the date of the decision to declare or pay it.
+120  – Calculating distributions
+Except as otherwise provided by the articles or the rights attached to shares, all dividends or other distributions must be apportioned to the number of shares a shareholder holds.
+121  – Paying distributions
+Subject to the articles or applicable law, the company may pay dividends or other distributions—
+(a) in cash or, if the shareholder entitled to the distribution consents to it in writing, by transferring non-cash assets of equivalent value, 
+(b) in such currency,
+(c) at such time and place, and 
+(d) in such form, 
+as the manager thinks fit.
+122  – No interest on distributions
+The company shall not pay interest on any dividend or other distribution payable with respect to a share.
+123  – Unclaimed distributions
+(1) Any dividend or other distribution which is—
+(a) payable with respect to a share, and
+(b) unclaimed after being declared or become payable
+must be deposited with the Luxembourg Caisse de Consignation. 
+(2) If one or more distribution recipients have not claimed a dividend or other distribution due for payment after the statute of limitation expires, that dividend or other distribution will be forfeited.
+
+Section 10 – Liquidation and other reorganisations
+Liquidating the company 
+124  – Methods of dissolving the company
+The company may be dissolved—
+(a) by special resolution, or
+(b) by operation of law.
+125  – Voluntary liquidation
+(1) The general meeting may dissolve the company by special resolution in accordance with the law on specialised investment funds and the law on commercial companies. 
+(2) Subject to paragraph (3), the general meeting shall, by ordinary resolution—
+(a) appoint one or more liquidators and auditors,
+(b) determine, regarding the liquidators and auditors—
+(i) their powers, and
+(ii) their remuneration.
+(3) Unless the general meeting decides otherwise, the liquidators may exercise all the powers of the company to wind up the business of the company in accordance with applicable law.
+(4) The liquidators shall prepare a report on their activities.
+(5) The liquidators’ report will be audited by the auditors appointed by the general meeting.
+126  – Liquidation by operation of law
+(1) The company may also be liquidated by operation of law.
+(2) The law on specialised investment funds will apply in this case.
+
+Liquidating funds and classes 
+127  – Methods of liquidating a fund or class
+(1) The company may liquidate a fund or a class—
+(a) upon a manager’s decision,
+(b) by ordinary resolution of the general meeting of that fund or class, Tor
+(c) by expiration of the term of that fund or class.
+128  – Effects of liquidation
+(1) Subject to paragraph (3), liquidating a fund or class will not affect other funds or classes.
+(2) If a fund has a limited duration, articles 1100-1 and following of the law on commercial companies will not apply and the manager shall liquidate the fund when its term expires.
+(3) The dissolution of the last fund causes the company's liquidation by operation of law.
+129  – Return of capital 
+By ordinary resolution, the general meeting may reduce the capital by cancelling shares of a fund or class and reimbursing to shareholders of that fund or class the net assets, or part of the net assets, of that fund or class.
+130  – Allocation of liquidation proceeds
+On distribution of assets on liquidation or return of capital, the surplus assets of the fund or class remaining after payment of its liabilities will be applied in accordance with articles 119 to 122.
+
+Reorganising funds and classes 
+131  – Split or consolidation of shares
+The general meeting may consolidate or split the shares or any fund or class by ordinary resolution. 
+132  – Merger and division
+By ordinary resolution, the general meeting may—
+(a) merge the assets of one fund or class with those of another fund or class of the company or another collective investment undertaking, and redesignate those shares as shares of the other fund or class (subject to a split or consolidation of shares to adjust fractional rights), and 
+(b) divide a fund or class into two or more funds or classes.
+133  – Special circumstances
+(1) If any of the following is true—
+(a) the net asset value in a fund or class is below a minimum level for that fund or class specified by the manager in the prospectus, 
+(b) the manager thinks that political, economic, or monetary circumstances warrant it,
+(c) the interest of investors in a class requires it,
+the manager may decide to—
+(i) divide a class into two or more classes,
+(ii) merge a class with another class of shares of the same fund or another fund of the company (subject to a split or consolidation of shares to adjust fractional rights),
+(iii) contribute a class to another entity, or
+(iv) cancel a class by reimbursing the shares at their net asset value.
+(2) The company shall notify the investors of the affected class or classes in writing before the effective date for the proposed corporate action. The notice must specify the reasons and procedure for that corporate action.
+(3) The company may suspend applications for subscription, redemption, or conversion from when the proposed corporate action is notified.
+
+Section 11 – Definitions and interpretation
+134  – Definitions
+In the articles, unless otherwise specified—
+‘affiliate’ means, with respect to a person, any person controlling, controlled by, or under common control with, such other person,
+‘alternative investment fund manager’ means the external alternative investment fund manager appointed by the company in accordance with the law on specialised investment funds,
+‘articles’ mean the articles of association of the company,
+‘auditor’ means the independent auditor (réviseur d’entreprises agréé) of the company,
+‘class’ means a class of shares (catégorie d’actions) in a fund’ which has the features specified in the articles and the prospectus; it may refer to a sub-class or a series of shares created in that class,
+‘company’ means The FinaStream Fund,
+‘control’ means, with respect to a person, the right to (a) exercise the majority of the voting rights of that person, (b) appoint the majority of the members of the management body of that person, or (c) direct or determine the policy and strategy of that person, whether through the ownership of voting rights, by contract or otherwise, 
+‘depositary’ means the depositary appointed by the company in accordance with the law on specialised investment funds,
+‘eligible investor’ means any well-informed investor in accordance with Article 2 of the law on specialised investment funds or anyone to whom the conditions of Article 2 do not apply,
+‘fund’ means a sub-fund in accordance with Article 71 of the law on specialised investment funds,
+‘general meeting’ means any meeting of shareholders of the company, a fund or a class,
+‘general partner’ means FinaStream GP, the holder of the management shares, in its capacity of unlimited shareholder (actionnaire commandité) of the company in accordance with the law on commercial companies,
+‘general partner share’ means a voting share that may only be held by the general partner with the designations, rights and obligations specified in the articles,
+‘government body’ means—
+(a) the government of any country or any political subdivision of any country,
+(b) any instrumentality of any such government,
+(c) any other individual, entity, or organisation authorised by law to perform any executive, legislative, judicial, regulatory, administrative, military, or police functions of any such government, or
+(d) any intergovernmental organisation,
+‘investor’ means a person who has placed a subscription order and includes that person as a holder of one or more investor shares,
+‘investor share’ means a voting share that may only be held by eligible investors with the designations, rights and obligations specified in the articles and the prospectus,
+‘law on alternative investment fund managers’ means the Luxembourg law dated 12 July 2013 on alternative investment fund managers,
+‘law on commercial companies’ means the Luxembourg law of 10 August 1915 on commercial companies,
+‘law on specialised investment funds’ means the Luxembourg law of 13 February 2007 on specialised investment funds,
+‘manager’ means FinaStream GP, in its capacity of manager (gérant) of the company in accordance with the law on commercial companies,
+‘net asset value’ means the net asset value of the company, each fund, each class or per share calculated in accordance with the articles and the prospectus,
+‘ordinary resolution’ means a resolution that is passed (before a notary public as applicable) by a majority of the votes cast by investors eligible to vote and the consent of the general partner,
+‘person’ means an individual, an entity, or a government body,
+‘prospectus’ means the offering document or issue document of the company in accordance with the law on specialised investment funds,
+‘record date’ means midnight on the second day before the general meeting,
+‘reference currency’ means the currency in which the company, a fund or a class is denominated,
+‘regulated market’ means a regulated market, multilateral trading facility, or organised trading facility as defined in Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments,
+‘representative’ means, with respect to an entity, any director, manager, officer, employee, agent, consultant, advisor, or other representative of that entity, and with respect to an individual, any heir, executor, successor, assignee, or other representative of that individual,
+‘restricted person’ means anyone—
+(a) who is not an eligible investor,
+(b) who is a US person,
+(c) who is in breach of—
+(i) law or a legal process, or
+(ii) their obligations towards the company, or
+(d) whose holding might—
+(i) cause the company, any company investment or shareholder to be liable for anything which the company, that investment or shareholder might not otherwise have been liable for, or
+(ii) harm the interest of the company, its shareholders, or its business.
+‘share’ means a management share, an investor share, or both, 
+‘shareholder’ means a holder of one or more shares,
+‘special resolution’ means a resolution that is passed (before a notary public as applicable) by a majority of not less than two-thirds of investors eligible to vote and, where applicable, the consent of the general partner, representing together, where applicable, not less than the majority of the voting rights of shareholders eligible to vote,
+‘US person’ means a United States person under the United States Securities Act of 1933 or the Internal Revenue Code of 1986,
+‘valuation day’ means any day on which the net asset value of the company, a fund, a class, and per share is calculated in accordance with the articles and the prospectus.
+135  – Interpretation
+In the articles, unless otherwise specified—
+(a) if any date specified in the articles as the only day, or the last day, for acting falls on a day that is not a business day, then that action may be taken on the next business day,
+(b) all references to time are based on the time in Luxembourg, and
+(c) if a term is defined, its other grammatical forms have a corresponding meaning, and
+(d) where a French term has been inserted in italics, that term alone (and not the English term to which it relates) will prevail for interpreting the respective provision.
+
+
+- 1 -
+
+
+
