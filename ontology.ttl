@@ -1,0 +1,337 @@
+﻿@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix legal: <http://example.org/legalOntology#> .
+
+# Ontology Metadata
+legal:Ontology a owl:Ontology ;
+    rdfs:label "Enhanced Legal Document Ontology" ;
+    rdfs:comment """An ontology describing the structure, content, and relationships
+                  within and between legal and financial documents like Constitutions,
+                  Offerings (Prospectuses), and Agreements, including defined terms,
+                  parties, roles, concepts, obligations, rights, and financial instruments.""" .
+
+# --- Core Document Structure Classes ---
+legal:Document a owl:Class ;
+    rdfs:label "Document" ;
+    rdfs:comment "Represents a legal or financial document." .
+
+legal:ConstitutionDocument a owl:Class ;
+    rdfs:subClassOf legal:Document ;
+    rdfs:label "Constitution Document" .
+
+legal:OfferingDocument a owl:Class ;
+    rdfs:subClassOf legal:Document ;
+    rdfs:label "Offering Document (Prospectus)" .
+
+legal:AgreementDocument a owl:Class ;
+    rdfs:subClassOf legal:Document ;
+    rdfs:label "Agreement Document (Shareholders Agreement)" .
+
+legal:Section a owl:Class ;
+    rdfs:label "Section" ;
+    rdfs:comment "A major division within a document." .
+
+legal:Clause a owl:Class ;
+    rdfs:label "Clause / Article" ;
+    rdfs:comment "A specific article, clause, or numbered provision within a document or section." .
+
+legal:Paragraph a owl:Class ;
+    rdfs:label "Paragraph / Sub-clause" ;
+    rdfs:comment "A subdivision within a clause or section." .
+
+legal:Schedule a owl:Class ;
+    rdfs:label "Schedule / Annexure" ;
+    rdfs:comment "An appendix or schedule attached to a document." .
+
+legal:TableOfContentsEntry a owl:Class ;
+    rdfs:label "Table of Contents Entry" .
+
+legal:Recital a owl:Class ;
+    rdfs:label "Recital" ;
+    rdfs:comment "Introductory statements in a formal document, often marked A, B, C, etc." .
+
+# --- Party and Role Classes ---
+legal:Party a owl:Class ;
+    rdfs:label "Party" ;
+    rdfs:comment "An individual or organization involved in or subject to the document's terms." .
+
+legal:Company a owl:Class ;
+    rdfs:subClassOf legal:Party ;
+    rdfs:label "Company / Corporation" .
+
+legal:Individual a owl:Class ;
+    rdfs:subClassOf legal:Party ;
+    rdfs:label "Individual Person" .
+
+legal:Role a owl:Class ;
+    rdfs:label "Role" ;
+    rdfs:comment "A function or capacity held by a party (e.g., Shareholder, Director)." .
+
+legal:Shareholder a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Director a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Manager a owl:Class ; rdfs:subClassOf legal:Role . # e.g., AIFM
+legal:GeneralPartner a owl:Class ; rdfs:subClassOf legal:Role .
+legal:LimitedPartner a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Investor a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Searcher a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Depositary a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Administrator a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Auditor a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Chairperson a owl:Class ; rdfs:subClassOf legal:Role .
+legal:CEO a owl:Class ; rdfs:subClassOf legal:Role .
+legal:LegalAdviser a owl:Class ; rdfs:subClassOf legal:Role .
+legal:PayingAgent a owl:Class ; rdfs:subClassOf legal:Role .
+legal:Representative a owl:Class ; rdfs:subClassOf legal:Role . # e.g., Swiss Representative
+legal:Distributor a owl:Class ; rdfs:subClassOf legal:Role .
+
+# --- Concept Classes ---
+legal:Definition a owl:Class ;
+    rdfs:label "Definition" ;
+    rdfs:comment "A term defined within a document." .
+
+legal:LegalConcept a owl:Class ;
+    rdfs:label "Legal Concept" ;
+    rdfs:comment "Abstract legal ideas or principles mentioned (e.g., Liability, Right, Obligation)." .
+
+legal:Right a owl:Class ; rdfs:subClassOf legal:LegalConcept .
+legal:Obligation a owl:Class ; rdfs:subClassOf legal:LegalConcept .
+legal:Restriction a owl:Class ; rdfs:subClassOf legal:LegalConcept .
+legal:Liability a owl:Class ; rdfs:subClassOf legal:LegalConcept .
+legal:Policy a owl:Class ; rdfs:subClassOf legal:LegalConcept . # e.g., Investment Policy, Dividend Policy
+legal:Procedure a owl:Class ; rdfs:subClassOf legal:LegalConcept . # e.g., Dispute Resolution, Voting Procedure
+legal:Condition a owl:Class ; rdfs:subClassOf legal:LegalConcept . # e.g., Vesting Condition
+legal:Consent a owl:Class ; rdfs:subClassOf legal:LegalConcept . # e.g., Shareholder consent required
+
+legal:FinancialConcept a owl:Class ;
+    rdfs:label "Financial Concept" ;
+    rdfs:comment "Concepts related to finance, capital, value, etc." .
+
+legal:Capital a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+legal:NAV a owl:Class ; rdfs:subClassOf legal:FinancialConcept ; rdfs:label "Net Asset Value" .
+legal:Fee a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+legal:Cost a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+legal:Expense a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+legal:Dividend a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+legal:Price a owl:Class ; rdfs:subClassOf legal:FinancialConcept . # e.g., Share Price, Redemption Price
+legal:Value a owl:Class ; rdfs:subClassOf legal:FinancialConcept . # e.g., Fair Market Value
+legal:IRR a owl:Class ; rdfs:subClassOf legal:FinancialConcept ; rdfs:label "Internal Rate of Return" .
+legal:Currency a owl:Class ; rdfs:subClassOf legal:FinancialConcept .
+
+legal:FinancialInstrument a owl:Class ;
+    rdfs:label "Financial Instrument" ;
+    rdfs:comment "Specific financial assets like shares, options, bonds." .
+
+legal:Share a owl:Class ; rdfs:subClassOf legal:FinancialInstrument .
+legal:Option a owl:Class ; rdfs:subClassOf legal:FinancialInstrument .
+legal:Bond a owl:Class ; rdfs:subClassOf legal:FinancialInstrument .
+legal:Derivative a owl:Class ; rdfs:subClassOf legal:FinancialInstrument .
+
+legal:ShareClass a owl:Class ;
+    rdfs:subClassOf legal:Share ;
+    rdfs:label "Share Class" .
+legal:RedeemablePreferenceShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+legal:SeriesAPreferenceShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+legal:SeriesBPreferenceShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+legal:OrdinaryShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+legal:GeneralPartnerShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+legal:InvestorShare a owl:Class ; rdfs:subClassOf legal:ShareClass .
+
+legal:OptionType a owl:Class ;
+    rdfs:subClassOf legal:Option ;
+    rdfs:label "Option Type" .
+legal:FirstOption a owl:Class ; rdfs:subClassOf legal:OptionType .
+legal:SecondOption a owl:Class ; rdfs:subClassOf legal:OptionType .
+legal:ThirdOption a owl:Class ; rdfs:subClassOf legal:OptionType .
+
+legal:TemporalConcept a owl:Class ;
+    rdfs:label "Temporal Concept" ;
+    rdfs:comment "Concepts related to time, periods, dates." .
+legal:Period a owl:Class ; rdfs:subClassOf legal:TemporalConcept . # e.g., Search Period, Operation Period
+legal:Date a owl:Class ; rdfs:subClassOf legal:TemporalConcept . # e.g., Valuation Day, Record Date
+legal:Duration a owl:Class ; rdfs:subClassOf legal:TemporalConcept . # e.g., Fund Duration
+
+legal:Event a owl:Class ;
+    rdfs:label "Event" ;
+    rdfs:comment "Specific occurrences mentioned (e.g., Sale Event, Insolvency Event)." .
+legal:SaleEvent a owl:Class ; rdfs:subClassOf legal:Event .
+legal:InsolvencyEvent a owl:Class ; rdfs:subClassOf legal:Event .
+legal:DefaultEvent a owl:Class ; rdfs:subClassOf legal:Event .
+legal:CompletionEvent a owl:Class ; rdfs:subClassOf legal:Event . # Completion of Acquisition
+
+legal:Meeting a owl:Class ;
+    rdfs:label "Meeting" ;
+    rdfs:comment "Formal gatherings mentioned (e.g., Board Meeting, Shareholder Meeting)." .
+legal:BoardMeeting a owl:Class ; rdfs:subClassOf legal:Meeting .
+legal:ShareholderMeeting a owl:Class ; rdfs:subClassOf legal:Meeting .
+
+legal:Resolution a owl:Class ;
+    rdfs:label "Resolution" ;
+    rdfs:comment "Formal decisions made (e.g., Ordinary Resolution, Special Resolution)." .
+legal:OrdinaryResolution a owl:Class ; rdfs:subClassOf legal:Resolution .
+legal:SpecialResolution a owl:Class ; rdfs:subClassOf legal:Resolution .
+legal:CirculatingResolution a owl:Class ; rdfs:subClassOf legal:Resolution .
+
+legal:Location a owl:Class ;
+    rdfs:label "Location / Address" .
+
+legal:Jurisdiction a owl:Class ;
+    rdfs:label "Jurisdiction / Law" . # e.g., Luxembourg Law, Corporations Act
+
+
+# --- Properties ---
+
+# Document Structure Properties
+legal:hasSection a owl:ObjectProperty ; rdfs:label "has section" ; rdfs:domain legal:Document ; rdfs:range legal:Section .
+legal:hasClause a owl:ObjectProperty ; rdfs:label "has clause/article" ; rdfs:domain legal:Section ; rdfs:range legal:Clause . # Could also be Document -> Clause
+legal:hasParagraph a owl:ObjectProperty ; rdfs:label "has paragraph/sub-clause" ; rdfs:domain legal:Clause ; rdfs:range legal:Paragraph . # Could also be Section -> Paragraph
+legal:hasDefinitionSection a owl:ObjectProperty ; rdfs:label "has definition section" ; rdfs:domain legal:Document ; rdfs:range legal:Section . # Or range legal:Clause
+legal:hasSchedule a owl:ObjectProperty ; rdfs:label "has schedule/annexure" ; rdfs:domain legal:Document ; rdfs:range legal:Schedule .
+legal:hasTableOfContentsEntry a owl:ObjectProperty ; rdfs:label "has table of contents entry" ; rdfs:domain legal:Document ; rdfs:range legal:TableOfContentsEntry .
+legal:hasRecital a owl:ObjectProperty ; rdfs:label "has recital" ; rdfs:domain legal:Document ; rdfs:range legal:Recital .
+
+# Content Properties
+legal:hasTitle a owl:DatatypeProperty ; rdfs:label "has title" ; rdfs:range rdfs:Literal .
+legal:hasNumber a owl:DatatypeProperty ; rdfs:label "has number" ; rdfs:range xsd:string .
+legal:hasText a owl:DatatypeProperty ; rdfs:label "has text" ; rdfs:range rdfs:Literal .
+legal:sourceReference a owl:DatatypeProperty ; rdfs:label "source reference" ; rdfs:range xsd:integer .
+
+# Definition Properties
+legal:definesTerm a owl:ObjectProperty ; rdfs:label "defines term" ; rdfs:domain legal:Section ; rdfs:range legal:Definition . # Or domain legal:Clause
+legal:termLabel a owl:DatatypeProperty ; rdfs:label "term label" ; rdfs:domain legal:Definition ; rdfs:range rdfs:Literal .
+legal:termDefinition a owl:DatatypeProperty ; rdfs:label "term definition" ; rdfs:domain legal:Definition ; rdfs:range rdfs:Literal .
+
+# Relationship Properties
+legal:basedOn a owl:ObjectProperty ; rdfs:label "is based on" ; rdfs:domain legal:Document ; rdfs:range legal:Document .
+legal:referencesClause a owl:ObjectProperty ; rdfs:label "references clause" ; rdfs:domain legal:Clause ; rdfs:range legal:Clause . # Or domain legal:Paragraph
+legal:referencesDefinition a owl:ObjectProperty ; rdfs:label "references definition" ; rdfs:domain legal:Clause ; rdfs:range legal:Definition . # Or domain legal:Paragraph
+legal:referencesDocument a owl:ObjectProperty ; rdfs:label "references document" ; rdfs:domain legal:Clause ; rdfs:range legal:Document . # Or domain legal:Schedule
+legal:isPartOf a owl:ObjectProperty ; rdfs:label "is part of" ; rdfs:range legal:Document . # Domain can be Section, Clause, etc.
+legal:governedBy a owl:ObjectProperty ; rdfs:label "is governed by" ; rdfs:range legal:Jurisdiction . # Domain could be Document, Clause, Party
+
+# Party/Role Properties
+legal:hasParty a owl:ObjectProperty ; rdfs:label "has party" ; rdfs:domain legal:Document ; rdfs:range legal:Party .
+legal:hasRole a owl:ObjectProperty ; rdfs:label "has role" ; rdfs:domain legal:Party ; rdfs:range legal:Role .
+legal:actsAs a owl:ObjectProperty ; rdfs:label "acts as" ; rdfs:domain legal:Party ; rdfs:range legal:Role . # Inverse of hasRole?
+legal:appoints a owl:ObjectProperty ; rdfs:label "appoints" ; rdfs:domain legal:Party ; rdfs:range legal:Party . # Or domain Role -> range Role
+legal:appointsDirector a owl:ObjectProperty ; rdfs:label "appoints director" ; rdfs:domain legal:Shareholder ; rdfs:range legal:Director . # More specific
+legal:removes a owl:ObjectProperty ; rdfs:label "removes" ; rdfs:domain legal:Party ; rdfs:range legal:Party .
+legal:isAppointedBy a owl:ObjectProperty ; rdfs:label "is appointed by" ; rdfs:domain legal:Party ; rdfs:range legal:Party .
+
+# Financial Instrument Properties
+legal:holdsShare a owl:ObjectProperty ; rdfs:label "holds share" ; rdfs:domain legal:Party ; rdfs:range legal:Share . # Or domain legal:Shareholder
+legal:issuesShare a owl:ObjectProperty ; rdfs:label "issues share" ; rdfs:domain legal:Company ; rdfs:range legal:Share .
+legal:grantsOption a owl:ObjectProperty ; rdfs:label "grants option" ; rdfs:domain legal:Company ; rdfs:range legal:Option .
+legal:exercisesOption a owl:ObjectProperty ; rdfs:label "exercises option" ; rdfs:domain legal:Party ; rdfs:range legal:Option .
+legal:shareType a owl:ObjectProperty ; rdfs:label "share type" ; rdfs:domain legal:Share ; rdfs:range legal:ShareClass .
+legal:optionType a owl:ObjectProperty ; rdfs:label "option type" ; rdfs:domain legal:Option ; rdfs:range legal:OptionType .
+legal:hasIssuePrice a owl:ObjectProperty ; rdfs:label "has issue price" ; rdfs:domain legal:FinancialInstrument ; rdfs:range legal:Price .
+legal:hasExercisePrice a owl:ObjectProperty ; rdfs:label "has exercise price" ; rdfs:domain legal:Option ; rdfs:range legal:Price .
+legal:hasParValue a owl:ObjectProperty ; rdfs:label "has par value" ; rdfs:domain legal:Share ; rdfs:range legal:Value .
+legal:inCurrency a owl:ObjectProperty ; rdfs:label "in currency" ; rdfs:range legal:Currency . # Domain: Price, Value, Fee, etc.
+legal:quantity a owl:DatatypeProperty ; rdfs:label "quantity" ; rdfs:range xsd:integer .
+
+# Legal Concept Properties
+legal:imposesObligation a owl:ObjectProperty ; rdfs:label "imposes obligation" ; rdfs:domain legal:Clause ; rdfs:range legal:Obligation .
+legal:grantsRight a owl:ObjectProperty ; rdfs:label "grants right" ; rdfs:domain legal:Clause ; rdfs:range legal:Right . # Or domain Share -> range Right
+legal:imposesRestriction a owl:ObjectProperty ; rdfs:label "imposes restriction" ; rdfs:domain legal:Clause ; rdfs:range legal:Restriction .
+legal:definesLiability a owl:ObjectProperty ; rdfs:label "defines liability" ; rdfs:domain legal:Clause ; rdfs:range legal:Liability .
+legal:definesPolicy a owl:ObjectProperty ; rdfs:label "defines policy" ; rdfs:domain legal:Clause ; rdfs:range legal:Policy .
+legal:specifiesProcedure a owl:ObjectProperty ; rdfs:label "specifies procedure" ; rdfs:domain legal:Clause ; rdfs:range legal:Procedure .
+legal:requiresConsent a owl:ObjectProperty ; rdfs:label "requires consent" ; rdfs:domain legal:Clause ; rdfs:range legal:Consent . # Or range legal:Party/Role
+legal:hasCondition a owl:ObjectProperty ; rdfs:label "has condition" ; rdfs:domain legal:Option ; rdfs:range legal:Condition . # Or domain Clause
+legal:grantedTo a owl:ObjectProperty ; rdfs:label "granted to" ; rdfs:domain legal:Right ; rdfs:range legal:Party .
+legal:definedIn a owl:ObjectProperty ; rdfs:label "defined in" ; rdfs:domain legal:Period ; rdfs:range legal:Clause .
+
+# Temporal Properties
+legal:occursDuring a owl:ObjectProperty ; rdfs:label "occurs during" ; rdfs:range legal:Period . # Domain: Event, Meeting, etc.
+legal:hasStartDate a owl:DatatypeProperty ; rdfs:label "has start date" ; rdfs:domain legal:Period ; rdfs:range xsd:date .
+legal:hasEndDate a owl:DatatypeProperty ; rdfs:label "has end date" ; rdfs:domain legal:Period ; rdfs:range xsd:date .
+legal:hasDuration a owl:ObjectProperty ; rdfs:label "has duration" ; rdfs:domain legal:Period ; rdfs:range legal:Duration . # Or xsd:duration
+legal:effectiveDate a owl:DatatypeProperty ; rdfs:label "effective date" ; rdfs:domain legal:Event ; rdfs:range xsd:date . # Or domain Document
+legal:recordDate a owl:ObjectProperty ; rdfs:label "record date" ; rdfs:range legal:Date .
+
+# Meeting/Resolution Properties
+legal:passesResolution a owl:ObjectProperty ; rdfs:label "passes resolution" ; rdfs:domain legal:Meeting ; rdfs:range legal:Resolution .
+legal:requiresQuorum a owl:DatatypeProperty ; rdfs:label "requires quorum" ; rdfs:domain legal:Meeting ; rdfs:range xsd:integer . # Or specific quorum description
+legal:hasAttendee a owl:ObjectProperty ; rdfs:label "has attendee" ; rdfs:domain legal:Meeting ; rdfs:range legal:Party .
+
+# Location Properties
+legal:hasAddress a owl:ObjectProperty ; rdfs:label "has address" ; rdfs:domain legal:Party ; rdfs:range legal:Location . # Or domain Company
+legal:registeredOffice a owl:ObjectProperty ; rdfs:label "registered office" ; rdfs:domain legal:Company ; rdfs:range legal:Location .
+legal:locatedIn a owl:ObjectProperty ; rdfs:label "located in" ; rdfs:domain legal:Location ; rdfs:range legal:Jurisdiction .
+
+# TOC Properties
+legal:entryTitle a owl:DatatypeProperty ; rdfs:label "entry title" ; rdfs:domain legal:TableOfContentsEntry ; rdfs:range rdfs:Literal .
+legal:entryPage a owl:DatatypeProperty ; rdfs:label "entry page" ; rdfs:domain legal:TableOfContentsEntry ; rdfs:range xsd:integer .
+
+
+# --- Existing Individuals (Examples) ---
+
+legal:FinaStreamFund a legal:Company ;
+  rdfs:label "The FinaStream Fund" ;
+  legal:hasRole legal:Company ; # Role assigned to the entity itself
+  legal:registeredOffice [ a legal:Location ; 
+                          rdfs:label "5, rue du Fort Rheinsheim, L-2419 Luxembourg" ; 
+                          legal:locatedIn legal:LuxembourgJurisdiction ] .
+
+legal:LuxembourgJurisdiction a legal:Jurisdiction ;
+  rdfs:label "Grand Duchy of Luxembourg" .
+
+legal:CruxCapitalPartners a legal:Company ;
+  rdfs:label "Crux Capital Partners Pty Ltd" ;
+  legal:hasRole legal:Company ;
+  legal:registeredOffice [ a legal:Location ; 
+                          rdfs:label "Level 21, 91 King William Street Adelaide SA 5000" ; 
+                          legal:locatedIn legal:VictoriaJurisdiction ] .
+
+legal:VictoriaJurisdiction a legal:Jurisdiction ;
+  rdfs:label "Victoria, Australia" .
+
+legal:ChaiRachabattuni a legal:Individual ;
+  rdfs:label "Chai Rachabattuni" ;
+  legal:actsAs legal:Searcher ;
+  legal:actsAs legal:Director ; # During Search Period
+  legal:actsAs legal:CEO ; # During Operation Period (Joint)
+  legal:hasAddress [ a legal:Location ; 
+                    rdfs:label "1012/470 St Kilda Road, Melbourne VIC 3004" ] .
+
+legal:OrlandoGuerra a legal:Individual ;
+  rdfs:label "Orlando Guerra" ;
+  legal:actsAs legal:Searcher ;
+  legal:actsAs legal:Director ; # During Search Period
+  legal:actsAs legal:Chairperson ; # During Search Period
+  legal:actsAs legal:CEO ; # During Operation Period (Joint)
+  legal:hasAddress [ a legal:Location ; 
+                    rdfs:label "1012/470 St Kilda Road, Melbourne VIC 3004" ] .
+
+legal:NSFundInvestments a legal:Party ; # Could be refined if more info available
+  rdfs:label "NS Fund – Long Term Investments" ;
+  legal:actsAs legal:Shareholder ;
+  legal:holdsShare [ a legal:RedeemablePreferenceShare ; 
+                    legal:quantity "100000"^^xsd:integer ] .
+
+legal:Agr_S5_C5_1 a legal:Clause ; # Clause 5.1 from Agreement
+    rdfs:label "Clause 5.1 – First Option" ;
+    legal:hasNumber "5.1" ;
+    legal:hasTitle "First Option" ;
+    legal:isPartOf legal:Agr_S5 ;
+    legal:definesTerm [ a legal:Definition ; 
+                       legal:termLabel "First Option Exercise Period" ] ;
+    legal:definesTerm [ a legal:Definition ; 
+                       legal:termLabel "First Option Vesting Condition" ] ;
+    legal:grantsRight [ a legal:FirstOption ; 
+                       legal:grantedTo legal:ChaiRachabattuni, legal:OrlandoGuerra ; 
+                       legal:hasCondition [ a legal:Condition ; 
+                                          rdfs:label "Completion Occurring" ] ] .
+
+legal:SearchPeriod a legal:Period ;
+    rdfs:label "Search Period" ;
+    legal:definedIn legal:Agr_S1_C1_1 .
+
+legal:OperationPeriod a legal:Period ;
+    rdfs:label "Operation Period" ;
+    legal:definedIn legal:Agr_S1_C1_1 .
+
+# --- End of Ontology ---
